@@ -39,3 +39,8 @@ yarn-error.log*
 
 # Database
 *.db
+
+# Known problematic / large local data
+second-brain/
+*.seg
+.stfolder/
