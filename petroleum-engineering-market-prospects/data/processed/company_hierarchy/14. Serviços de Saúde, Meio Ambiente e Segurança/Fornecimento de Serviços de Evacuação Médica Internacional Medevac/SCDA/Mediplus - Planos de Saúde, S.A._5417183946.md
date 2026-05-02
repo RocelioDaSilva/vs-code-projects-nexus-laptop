@@ -1,0 +1,13 @@
+# Mediplus - Planos de Saúde, S.A.
+
+> 📌 **Perfil Completo:** [[Mediplus - Planos de Saúde, S.A._5417183946]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5417183946` |
+| **Status ANPG** | — |
+| **Serviço** | 14. Serviços de Saúde, Meio Ambiente e Segurança |
+| **Actividade / Nicho** | Fornecimento de Serviços de Evacuação Médica Internacional Medevac |
+| **Tipo de Sociedade** | SCDA |
+
+→ Consulte [[Mediplus - Planos de Saúde, S.A._5417183946]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

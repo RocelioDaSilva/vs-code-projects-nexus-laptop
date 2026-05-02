@@ -1,0 +1,8 @@
+# Pérola verde prestação de Serviços Limitada
+
+- **NIF:** 5484250887
+- **Nome:** Pérola verde prestação de Serviços Limitada
+- **Status:** —
+- **Serviço:** 14. Serviços de Saúde, Meio Ambiente e Segurança
+- **Nicho:** Deposição, Gestão, Distribuição E Tratamento De Resíduos (Offshore)
+- **Tipo:** SCA

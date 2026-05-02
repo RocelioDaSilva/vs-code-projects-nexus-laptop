@@ -1,0 +1,8 @@
+# Asian Sealand Offshore And Marine Pte Ltd
+
+- **NIF:** 94287049
+- **Nome:** Asian Sealand Offshore And Marine Pte Ltd
+- **Status:** —
+- **Serviço:** 10. Serviços de Fornecimento de Pessoal
+- **Nicho:** Cedência Temporária De Trabalhadores (Manpower)
+- **Tipo:** SE

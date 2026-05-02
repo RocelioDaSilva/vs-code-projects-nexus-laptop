@@ -1,0 +1,8 @@
+# 3T WORLDWIDE ANGOLA - ENGENHARIA LDA
+
+- **NIF:** 5000980820
+- **Nome:** 3T WORLDWIDE ANGOLA - ENGENHARIA LDA
+- **Status:** —
+- **Serviço:** 20. Sistema de Produção Submarino (SPS) e Umbilicais, Linhas de Escoamento e Elevação (SURF)
+- **Nicho:** Fornecimento de Árvore de Natal Molhada (Subsea Xtree)
+- **Tipo:** SCDA

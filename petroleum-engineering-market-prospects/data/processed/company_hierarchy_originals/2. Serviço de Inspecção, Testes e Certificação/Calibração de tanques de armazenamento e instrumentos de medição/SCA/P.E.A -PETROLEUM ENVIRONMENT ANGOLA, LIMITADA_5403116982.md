@@ -1,0 +1,8 @@
+# P.E.A -PETROLEUM ENVIRONMENT ANGOLA, LIMITADA
+
+- **NIF:** 5403116982
+- **Nome:** P.E.A -PETROLEUM ENVIRONMENT ANGOLA, LIMITADA
+- **Status:** —
+- **Serviço:** 2. Serviço de Inspecção, Testes e Certificação
+- **Nicho:** Calibração de tanques de armazenamento e instrumentos de medição
+- **Tipo:** SCA

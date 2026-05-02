@@ -1,0 +1,13 @@
+# Monjasa Angola, LDA
+
+> 📌 **Perfil Completo:** [[Monjasa Angola, LDA_5000153010]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5000153010` |
+| **Status ANPG** | Preferência |
+| **Serviço** | 18. Serviços Logísticos |
+| **Actividade / Nicho** | Abastecimento combustível e químicos nas instalações (Bunkering Services) |
+| **Tipo de Sociedade** | SCDA |
+
+→ Consulte [[Monjasa Angola, LDA_5000153010]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

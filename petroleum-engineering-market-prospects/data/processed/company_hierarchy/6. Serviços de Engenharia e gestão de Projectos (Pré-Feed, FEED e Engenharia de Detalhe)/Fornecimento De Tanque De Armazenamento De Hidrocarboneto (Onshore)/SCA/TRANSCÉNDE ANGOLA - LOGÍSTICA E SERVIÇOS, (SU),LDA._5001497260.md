@@ -1,0 +1,13 @@
+# TRANSCÉNDE ANGOLA - LOGÍSTICA E SERVIÇOS, (SU),LDA.
+
+> 📌 **Perfil Completo:** [[TRANSCÉNDE ANGOLA - LOGÍSTICA E SERVIÇOS, (SU),LDA._5001497260]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5001497260` |
+| **Status ANPG** | — |
+| **Serviço** | 6. Serviços de Engenharia e gestão de Projectos (Pré-Feed, FEED e Engenharia de Detalhe) |
+| **Actividade / Nicho** | Fornecimento De Tanque De Armazenamento De Hidrocarboneto (Onshore) |
+| **Tipo de Sociedade** | SCA |
+
+→ Consulte [[TRANSCÉNDE ANGOLA - LOGÍSTICA E SERVIÇOS, (SU),LDA._5001497260]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

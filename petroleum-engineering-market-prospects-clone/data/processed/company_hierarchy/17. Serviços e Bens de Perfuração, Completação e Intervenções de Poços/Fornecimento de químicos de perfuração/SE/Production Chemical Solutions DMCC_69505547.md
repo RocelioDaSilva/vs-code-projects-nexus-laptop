@@ -1,0 +1,13 @@
+# Production Chemical Solutions DMCC
+
+> 📌 **Perfil Completo:** [[Production Chemical Solutions DMCC_69505547]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `69505547` |
+| **Status ANPG** | — |
+| **Serviço** | 17. Serviços e Bens de Perfuração, Completação e Intervenções de Poços |
+| **Actividade / Nicho** | Fornecimento de químicos de perfuração |
+| **Tipo de Sociedade** | SE |
+
+→ Consulte [[Production Chemical Solutions DMCC_69505547]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

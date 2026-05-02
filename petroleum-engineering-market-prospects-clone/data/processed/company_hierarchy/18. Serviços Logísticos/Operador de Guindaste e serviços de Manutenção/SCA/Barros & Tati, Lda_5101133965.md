@@ -1,0 +1,13 @@
+# Barros & Tati, Lda
+
+> 📌 **Perfil Completo:** [[Barros & Tati, Lda_5101133965]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5101133965` |
+| **Status ANPG** | Exclusividade |
+| **Serviço** | 18. Serviços Logísticos |
+| **Actividade / Nicho** | Operador de Guindaste e serviços de Manutenção |
+| **Tipo de Sociedade** | SCA |
+
+→ Consulte [[Barros & Tati, Lda_5101133965]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

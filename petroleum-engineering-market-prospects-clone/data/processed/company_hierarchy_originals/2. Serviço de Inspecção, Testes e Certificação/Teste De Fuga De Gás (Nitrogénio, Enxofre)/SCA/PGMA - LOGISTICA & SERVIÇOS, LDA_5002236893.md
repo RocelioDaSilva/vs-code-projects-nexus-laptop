@@ -1,0 +1,8 @@
+# PGMA - LOGISTICA & SERVIÇOS, LDA
+
+- **NIF:** 5002236893
+- **Nome:** PGMA - LOGISTICA & SERVIÇOS, LDA
+- **Status:** —
+- **Serviço:** 2. Serviço de Inspecção, Testes e Certificação
+- **Nicho:** Teste De Fuga De Gás (Nitrogénio, Enxofre)
+- **Tipo:** SCA

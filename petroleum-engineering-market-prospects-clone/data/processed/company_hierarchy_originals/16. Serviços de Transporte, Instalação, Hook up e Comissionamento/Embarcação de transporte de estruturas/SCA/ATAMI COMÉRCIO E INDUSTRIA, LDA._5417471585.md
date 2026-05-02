@@ -1,0 +1,8 @@
+# ATAMI COMÉRCIO E INDUSTRIA, LDA.
+
+- **NIF:** 5417471585
+- **Nome:** ATAMI COMÉRCIO E INDUSTRIA, LDA.
+- **Status:** Preferência
+- **Serviço:** 16. Serviços de Transporte, Instalação, Hook up e Comissionamento
+- **Nicho:** Embarcação de transporte de estruturas
+- **Tipo:** SCA

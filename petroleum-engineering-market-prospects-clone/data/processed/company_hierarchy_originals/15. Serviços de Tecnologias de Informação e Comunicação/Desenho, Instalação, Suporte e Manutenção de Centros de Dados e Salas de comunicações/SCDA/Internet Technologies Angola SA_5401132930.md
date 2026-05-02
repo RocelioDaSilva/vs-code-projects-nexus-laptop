@@ -1,0 +1,8 @@
+# Internet Technologies Angola SA
+
+- **NIF:** 5401132930
+- **Nome:** Internet Technologies Angola SA
+- **Status:** Preferência
+- **Serviço:** 15. Serviços de Tecnologias de Informação e Comunicação
+- **Nicho:** Desenho, Instalação, Suporte e Manutenção de Centros de Dados e Salas de comunicações
+- **Tipo:** SCDA

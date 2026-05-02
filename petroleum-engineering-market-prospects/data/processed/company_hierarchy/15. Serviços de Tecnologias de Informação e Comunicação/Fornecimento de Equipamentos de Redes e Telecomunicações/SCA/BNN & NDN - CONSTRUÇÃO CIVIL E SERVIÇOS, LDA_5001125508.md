@@ -1,0 +1,13 @@
+# BNN & NDN - CONSTRUÇÃO CIVIL E SERVIÇOS, LDA
+
+> 📌 **Perfil Completo:** [[BNN & NDN - CONSTRUÇÃO CIVIL E SERVIÇOS, LDA_5001125508]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5001125508` |
+| **Status ANPG** | — |
+| **Serviço** | 15. Serviços de Tecnologias de Informação e Comunicação |
+| **Actividade / Nicho** | Fornecimento de Equipamentos de Redes e Telecomunicações |
+| **Tipo de Sociedade** | SCA |
+
+→ Consulte [[BNN & NDN - CONSTRUÇÃO CIVIL E SERVIÇOS, LDA_5001125508]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

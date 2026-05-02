@@ -1,0 +1,13 @@
+# PRELECTRICA-PRESTAÇÃO DE SERVIÇOS, LDA
+
+> 📌 **Perfil Completo:** [[PRELECTRICA-PRESTAÇÃO DE SERVIÇOS, LDA_5484061652]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5484061652` |
+| **Status ANPG** | — |
+| **Serviço** | 10. Serviços de Fornecimento de Pessoal |
+| **Actividade / Nicho** | Serviços de Fornecimento de Pessoal de Apoio |
+| **Tipo de Sociedade** | SCA |
+
+→ Consulte [[PRELECTRICA-PRESTAÇÃO DE SERVIÇOS, LDA_5484061652]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

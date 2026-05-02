@@ -1,0 +1,8 @@
+# J PAB-ENGENHARIA E CONSULTORIA,LDA
+
+- **NIF:** 5001182331
+- **Nome:** J PAB-ENGENHARIA E CONSULTORIA,LDA
+- **Status:** —
+- **Serviço:** 17. Serviços e Bens de Perfuração, Completação e Intervenções de Poços
+- **Nicho:** Aluguer De Tubulares De Perfuração
+- **Tipo:** SCA

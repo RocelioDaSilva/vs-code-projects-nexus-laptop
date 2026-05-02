@@ -1,0 +1,8 @@
+# ALDEBARAN TC FZ LLC
+
+- **NIF:** 05720276
+- **Nome:** ALDEBARAN TC FZ LLC
+- **Status:** —
+- **Serviço:** 15. Serviços de Tecnologias de Informação e Comunicação
+- **Nicho:** Fornecimento De Licenças De Software De BackOffice (Line Of Business Applications, Enterprise Resource Planning, Bespoke, Comercial Off The Shelf)
+- **Tipo:** SE

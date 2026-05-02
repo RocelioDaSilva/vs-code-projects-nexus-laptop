@@ -1,0 +1,13 @@
+# ANGOIL BUMI JV LIMITADA
+
+> 📌 **Perfil Completo:** [[ANGOIL BUMI JV LIMITADA_5417272965]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5417272965` |
+| **Status ANPG** | Preferência |
+| **Serviço** | 12. Serviços de Operação Marítima |
+| **Actividade / Nicho** | Transporte passageiros (SURFER) |
+| **Tipo de Sociedade** | SCDA |
+
+→ Consulte [[ANGOIL BUMI JV LIMITADA_5417272965]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

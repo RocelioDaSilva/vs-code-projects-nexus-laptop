@@ -1,0 +1,13 @@
+# ANDIAMO, LIMITADA
+
+> 📌 **Perfil Completo:** [[ANDIAMO, LIMITADA_5417462063]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5417462063` |
+| **Status ANPG** | Preferência |
+| **Serviço** | 7. Serviços de Fabricação |
+| **Actividade / Nicho** | Construção e montagem de estruturas mecânicas, elétricas e instalações de produção e sondagem |
+| **Tipo de Sociedade** | SCA |
+
+→ Consulte [[ANDIAMO, LIMITADA_5417462063]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

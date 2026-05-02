@@ -1,0 +1,8 @@
+# NMODULES, FABRICO DE MOVEIS E EQUIPAMENTOS PARA A INDÚSTRIA ALIMENTAR
+
+- **NIF:** 5000673340
+- **Nome:** NMODULES, FABRICO DE MOVEIS E EQUIPAMENTOS PARA A INDÚSTRIA ALIMENTAR
+- **Status:** —
+- **Serviço:** 4. Serviços de Apoio
+- **Nicho:** Fornecimento De Mobiliário
+- **Tipo:** SCA

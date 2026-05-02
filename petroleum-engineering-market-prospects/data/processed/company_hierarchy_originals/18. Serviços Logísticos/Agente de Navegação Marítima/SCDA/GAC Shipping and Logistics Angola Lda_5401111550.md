@@ -1,0 +1,8 @@
+# GAC Shipping and Logistics Angola Lda
+
+- **NIF:** 5401111550
+- **Nome:** GAC Shipping and Logistics Angola Lda
+- **Status:** Exclusividade
+- **Serviço:** 18. Serviços Logísticos
+- **Nicho:** Agente de Navegação Marítima
+- **Tipo:** SCDA

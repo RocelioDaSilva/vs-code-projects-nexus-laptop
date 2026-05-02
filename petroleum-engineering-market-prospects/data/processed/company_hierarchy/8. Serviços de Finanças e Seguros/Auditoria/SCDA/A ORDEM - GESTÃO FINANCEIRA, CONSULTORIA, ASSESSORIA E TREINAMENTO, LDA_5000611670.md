@@ -1,0 +1,13 @@
+# A ORDEM - GESTÃO FINANCEIRA, CONSULTORIA, ASSESSORIA E TREINAMENTO, LDA
+
+> 📌 **Perfil Completo:** [[A ORDEM - GESTÃO FINANCEIRA, CONSULTORIA, ASSESSORIA E TREINAMENTO, LDA_5000611670]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5000611670` |
+| **Status ANPG** | Preferência |
+| **Serviço** | 8. Serviços de Finanças e Seguros |
+| **Actividade / Nicho** | Auditoria |
+| **Tipo de Sociedade** | SCDA |
+
+→ Consulte [[A ORDEM - GESTÃO FINANCEIRA, CONSULTORIA, ASSESSORIA E TREINAMENTO, LDA_5000611670]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

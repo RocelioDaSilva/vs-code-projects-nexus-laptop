@@ -1,0 +1,8 @@
+# Bardex Corporation
+
+- **NIF:** 18243661
+- **Nome:** Bardex Corporation
+- **Status:** —
+- **Serviço:** 6. Serviços de Engenharia e gestão de Projectos (Pré-Feed, FEED e Engenharia de Detalhe)
+- **Nicho:** Fornecimento De Serviços De Engenharia E Design
+- **Tipo:** SE

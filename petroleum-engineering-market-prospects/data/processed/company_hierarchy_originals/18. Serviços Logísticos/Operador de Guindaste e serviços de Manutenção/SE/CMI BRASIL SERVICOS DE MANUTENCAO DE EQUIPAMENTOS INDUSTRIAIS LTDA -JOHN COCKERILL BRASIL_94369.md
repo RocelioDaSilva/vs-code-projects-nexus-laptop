@@ -1,0 +1,8 @@
+# CMI BRASIL SERVICOS DE MANUTENCAO DE EQUIPAMENTOS INDUSTRIAIS LTDA -JOHN COCKERILL BRASIL
+
+- **NIF:** 94369
+- **Nome:** CMI BRASIL SERVICOS DE MANUTENCAO DE EQUIPAMENTOS INDUSTRIAIS LTDA -JOHN COCKERILL BRASIL
+- **Status:** Preferência
+- **Serviço:** 18. Serviços Logísticos
+- **Nicho:** Operador de Guindaste e serviços de Manutenção
+- **Tipo:** SE

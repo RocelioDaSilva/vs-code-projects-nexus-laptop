@@ -1,0 +1,13 @@
+# OBARY, CONSULTORIA & MARKETING, LDA
+
+> 📌 **Perfil Completo:** [[OBARY, CONSULTORIA & MARKETING, LDA_5401155387]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5401155387` |
+| **Status ANPG** | Exclusividade |
+| **Serviço** | 4. Serviços de Apoio |
+| **Actividade / Nicho** | Serviço de comércio Geral |
+| **Tipo de Sociedade** | SCA |
+
+→ Consulte [[OBARY, CONSULTORIA & MARKETING, LDA_5401155387]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

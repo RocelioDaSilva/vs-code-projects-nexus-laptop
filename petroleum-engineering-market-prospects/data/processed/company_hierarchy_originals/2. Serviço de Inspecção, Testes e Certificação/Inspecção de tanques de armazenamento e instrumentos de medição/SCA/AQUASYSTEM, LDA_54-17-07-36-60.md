@@ -1,0 +1,8 @@
+# AQUASYSTEM, LDA
+
+- **NIF:** 54-17-07-36-60
+- **Nome:** AQUASYSTEM, LDA
+- **Status:** —
+- **Serviço:** 2. Serviço de Inspecção, Testes e Certificação
+- **Nicho:** Inspecção de tanques de armazenamento e instrumentos de medição
+- **Tipo:** SCA

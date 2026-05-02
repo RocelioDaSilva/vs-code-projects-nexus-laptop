@@ -1,0 +1,8 @@
+# LOGISTON - LOGÍSTICA E PRESTAÇÃO DE SERVIÇOS, LDA
+
+- **NIF:** 5000187275
+- **Nome:** LOGISTON - LOGÍSTICA E PRESTAÇÃO DE SERVIÇOS, LDA
+- **Status:** Preferência
+- **Serviço:** 13. Serviços de Reservatório
+- **Nicho:** Armazenamento e conservação das amostras de carotes e PVT
+- **Tipo:** SCDA

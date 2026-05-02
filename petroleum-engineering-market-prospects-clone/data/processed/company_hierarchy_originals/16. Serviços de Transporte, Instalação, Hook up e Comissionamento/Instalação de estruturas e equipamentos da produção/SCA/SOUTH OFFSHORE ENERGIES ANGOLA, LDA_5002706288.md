@@ -1,0 +1,8 @@
+# SOUTH OFFSHORE ENERGIES ANGOLA, LDA
+
+- **NIF:** 5002706288
+- **Nome:** SOUTH OFFSHORE ENERGIES ANGOLA, LDA
+- **Status:** —
+- **Serviço:** 16. Serviços de Transporte, Instalação, Hook up e Comissionamento
+- **Nicho:** Instalação de estruturas e equipamentos da produção
+- **Tipo:** SCA

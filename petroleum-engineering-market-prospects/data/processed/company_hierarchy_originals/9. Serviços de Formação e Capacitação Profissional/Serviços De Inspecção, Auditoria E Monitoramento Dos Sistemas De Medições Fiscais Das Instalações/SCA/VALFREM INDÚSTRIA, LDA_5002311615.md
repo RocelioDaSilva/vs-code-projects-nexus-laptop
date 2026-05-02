@@ -1,0 +1,8 @@
+# VALFREM INDÚSTRIA, LDA
+
+- **NIF:** 5002311615
+- **Nome:** VALFREM INDÚSTRIA, LDA
+- **Status:** —
+- **Serviço:** 9. Serviços de Formação e Capacitação Profissional
+- **Nicho:** Serviços De Inspecção, Auditoria E Monitoramento Dos Sistemas De Medições Fiscais Das Instalações
+- **Tipo:** SCA

@@ -1,0 +1,8 @@
+# OLYMPIA RIG ANGOLA LDA
+
+- **NIF:** 5417162345
+- **Nome:** OLYMPIA RIG ANGOLA LDA
+- **Status:** —
+- **Serviço:** 17. Serviços e Bens de Perfuração, Completação e Intervenções de Poços
+- **Nicho:** Fornecimento de unidades de Perfuração em águas profundas e ultra profundas
+- **Tipo:** SCDA

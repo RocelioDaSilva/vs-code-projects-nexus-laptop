@@ -1,0 +1,13 @@
+# PORTUMO MADEIRA MONTAGEM E MANUTENCAO DE TUBARIA S.A.
+
+> 📌 **Perfil Completo:** [[PORTUMO MADEIRA MONTAGEM E MANUTENCAO DE TUBARIA S.A._66168]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `66168` |
+| **Status ANPG** | Preferência |
+| **Serviço** | 3. Serviço de Suporte as Operações |
+| **Actividade / Nicho** | Instalação, Apoio no Local, Operação, Manutenção, Reparação e Armazenamento de Equipamento Submarino |
+| **Tipo de Sociedade** | SE |
+
+→ Consulte [[PORTUMO MADEIRA MONTAGEM E MANUTENCAO DE TUBARIA S.A._66168]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

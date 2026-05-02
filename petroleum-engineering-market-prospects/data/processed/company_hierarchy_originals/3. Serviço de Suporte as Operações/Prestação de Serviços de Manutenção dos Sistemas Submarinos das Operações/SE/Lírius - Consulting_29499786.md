@@ -1,0 +1,8 @@
+# Lírius - Consulting
+
+- **NIF:** 29499786
+- **Nome:** Lírius - Consulting
+- **Status:** Preferência
+- **Serviço:** 3. Serviço de Suporte as Operações
+- **Nicho:** Prestação de Serviços de Manutenção dos Sistemas Submarinos das Operações
+- **Tipo:** SE

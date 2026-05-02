@@ -1,0 +1,8 @@
+# PGMA - LOGISTICA & SERVIÇOS, LDA
+
+- **NIF:** 5002236893
+- **Nome:** PGMA - LOGISTICA & SERVIÇOS, LDA
+- **Status:** —
+- **Serviço:** 4. Serviços de Apoio
+- **Nicho:** Fornecimento De Caixas Para O Armazenamento De Dados De Exploração E Produção (E&P)
+- **Tipo:** SCA

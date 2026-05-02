@@ -1,0 +1,13 @@
+# STAC - Academy - Prestação de Serviços, lda
+
+> 📌 **Perfil Completo:** [[STAC - Academy - Prestação de Serviços, lda_5000771287]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5000771287` |
+| **Status ANPG** | Preferência |
+| **Serviço** | 1. Consultoria, Assessoria e Auditoria |
+| **Actividade / Nicho** | Consultoria em Gestão e Expansão de Negócios |
+| **Tipo de Sociedade** | SCA |
+
+→ Consulte [[STAC - Academy - Prestação de Serviços, lda_5000771287]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

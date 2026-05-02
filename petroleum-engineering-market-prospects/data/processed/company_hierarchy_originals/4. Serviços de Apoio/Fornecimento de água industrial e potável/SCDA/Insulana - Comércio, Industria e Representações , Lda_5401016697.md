@@ -1,0 +1,8 @@
+# Insulana - Comércio, Industria e Representações , Lda
+
+- **NIF:** 5401016697
+- **Nome:** Insulana - Comércio, Industria e Representações , Lda
+- **Status:** Exclusividade
+- **Serviço:** 4. Serviços de Apoio
+- **Nicho:** Fornecimento de água industrial e potável
+- **Tipo:** SCDA

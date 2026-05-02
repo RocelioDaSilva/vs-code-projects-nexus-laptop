@@ -1,0 +1,13 @@
+# TIP-LUENA- COMERCIO GERAL E PRESTÇÃO DE SERVIÇO, LDA
+
+> 📌 **Perfil Completo:** [[TIP-LUENA- COMERCIO GERAL E PRESTÇÃO DE SERVIÇO, LDA_5000178624]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5000178624` |
+| **Status ANPG** | Preferência |
+| **Serviço** | 3. Serviço de Suporte as Operações |
+| **Actividade / Nicho** | Prestação de Serviços de Manutenção dos Sistemas Submarinos das Operações |
+| **Tipo de Sociedade** | SCA |
+
+→ Consulte [[TIP-LUENA- COMERCIO GERAL E PRESTÇÃO DE SERVIÇO, LDA_5000178624]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

@@ -1,0 +1,13 @@
+# FALAP Engenharia e Serviços
+
+> 📌 **Perfil Completo:** [[FALAP Engenharia e Serviços_5002669404]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5002669404` |
+| **Status ANPG** | — |
+| **Serviço** | 20. Sistema de Produção Submarino (SPS) e Umbilicais, Linhas de Escoamento e Elevação (SURF) |
+| **Actividade / Nicho** | Fornecimento De Serviços De Câmara_Testes Hiperbáricos |
+| **Tipo de Sociedade** | SCA |
+
+→ Consulte [[FALAP Engenharia e Serviços_5002669404]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

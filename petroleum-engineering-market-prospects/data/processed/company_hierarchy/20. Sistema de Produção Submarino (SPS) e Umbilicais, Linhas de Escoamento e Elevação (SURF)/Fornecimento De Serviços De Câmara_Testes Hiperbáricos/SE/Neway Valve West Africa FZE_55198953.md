@@ -1,0 +1,13 @@
+# Neway Valve West Africa FZE
+
+> 📌 **Perfil Completo:** [[Neway Valve West Africa FZE_55198953]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `55198953` |
+| **Status ANPG** | — |
+| **Serviço** | 20. Sistema de Produção Submarino (SPS) e Umbilicais, Linhas de Escoamento e Elevação (SURF) |
+| **Actividade / Nicho** | Fornecimento De Serviços De Câmara_Testes Hiperbáricos |
+| **Tipo de Sociedade** | SE |
+
+→ Consulte [[Neway Valve West Africa FZE_55198953]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

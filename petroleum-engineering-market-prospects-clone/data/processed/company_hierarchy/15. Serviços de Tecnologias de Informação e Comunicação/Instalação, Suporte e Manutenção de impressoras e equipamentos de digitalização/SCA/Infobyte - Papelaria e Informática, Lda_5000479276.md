@@ -1,0 +1,13 @@
+# Infobyte - Papelaria e Informática, Lda
+
+> 📌 **Perfil Completo:** [[Infobyte - Papelaria e Informática, Lda_5000479276]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5000479276` |
+| **Status ANPG** | — |
+| **Serviço** | 15. Serviços de Tecnologias de Informação e Comunicação |
+| **Actividade / Nicho** | Instalação, Suporte e Manutenção de impressoras e equipamentos de digitalização |
+| **Tipo de Sociedade** | SCA |
+
+→ Consulte [[Infobyte - Papelaria e Informática, Lda_5000479276]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

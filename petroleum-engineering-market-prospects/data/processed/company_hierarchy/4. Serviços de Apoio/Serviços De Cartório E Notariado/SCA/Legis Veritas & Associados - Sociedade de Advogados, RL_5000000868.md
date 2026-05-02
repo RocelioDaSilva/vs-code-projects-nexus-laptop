@@ -1,0 +1,13 @@
+# Legis Veritas & Associados - Sociedade de Advogados, RL
+
+> 📌 **Perfil Completo:** [[Legis Veritas & Associados - Sociedade de Advogados, RL_5000000868]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5000000868` |
+| **Status ANPG** | — |
+| **Serviço** | 4. Serviços de Apoio |
+| **Actividade / Nicho** | Serviços De Cartório E Notariado |
+| **Tipo de Sociedade** | SCA |
+
+→ Consulte [[Legis Veritas & Associados - Sociedade de Advogados, RL_5000000868]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

@@ -1,0 +1,8 @@
+# EQSANGOLA - SERVIÇOS ENGENHARIA, QUALIDADE E SEGURANÇA, LDA
+
+- **NIF:** 5417213217
+- **Nome:** EQSANGOLA - SERVIÇOS ENGENHARIA, QUALIDADE E SEGURANÇA, LDA
+- **Status:** Preferência
+- **Serviço:** 2. Serviço de Inspecção, Testes e Certificação
+- **Nicho:** Prestação de Testes Não-destrutivos (NDT) e Serviços de Inspecção
+- **Tipo:** SCDA

@@ -1,0 +1,13 @@
+# BRIMONT, LDA.
+
+> 📌 **Perfil Completo:** [[BRIMONT, LDA._5417413550]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5417413550` |
+| **Status ANPG** | Preferência |
+| **Serviço** | 6. Serviços de Engenharia e gestão de Projectos (Pré-Feed, FEED e Engenharia de Detalhe) |
+| **Actividade / Nicho** | Fornecimento de Serviços de Engenharia e Modificações |
+| **Tipo de Sociedade** | SCA |
+
+→ Consulte [[BRIMONT, LDA._5417413550]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

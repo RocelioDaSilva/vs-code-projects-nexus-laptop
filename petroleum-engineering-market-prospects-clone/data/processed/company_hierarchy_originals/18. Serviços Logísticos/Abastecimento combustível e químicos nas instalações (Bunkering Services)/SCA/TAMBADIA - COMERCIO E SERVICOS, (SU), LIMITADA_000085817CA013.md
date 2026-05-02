@@ -1,0 +1,8 @@
+# TAMBADIA - COMERCIO E SERVICOS, (SU), LIMITADA
+
+- **NIF:** 000085817CA013
+- **Nome:** TAMBADIA - COMERCIO E SERVICOS, (SU), LIMITADA
+- **Status:** Preferência
+- **Serviço:** 18. Serviços Logísticos
+- **Nicho:** Abastecimento combustível e químicos nas instalações (Bunkering Services)
+- **Tipo:** SCA

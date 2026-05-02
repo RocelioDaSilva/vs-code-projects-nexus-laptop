@@ -1,0 +1,8 @@
+# Agridac-Comercio Geral e Prestação de Serviço SU LDA
+
+- **NIF:** 5000216313
+- **Nome:** Agridac-Comercio Geral e Prestação de Serviço SU LDA
+- **Status:** —
+- **Serviço:** 18. Serviços Logísticos
+- **Nicho:** Fornecimento De Serviços De Abastecimento Combustível E Químicos Nas Instalações (Bunkering Services)
+- **Tipo:** SCA

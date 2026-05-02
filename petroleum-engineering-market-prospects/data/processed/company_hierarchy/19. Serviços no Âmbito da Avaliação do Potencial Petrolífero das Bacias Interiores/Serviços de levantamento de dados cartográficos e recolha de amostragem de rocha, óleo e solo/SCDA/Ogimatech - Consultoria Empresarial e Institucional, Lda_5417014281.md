@@ -1,0 +1,13 @@
+# Ogimatech - Consultoria Empresarial e Institucional, Lda
+
+> 📌 **Perfil Completo:** [[Ogimatech - Consultoria Empresarial e Institucional, Lda_5417014281]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5417014281` |
+| **Status ANPG** | Preferência |
+| **Serviço** | 19. Serviços no Âmbito da Avaliação do Potencial Petrolífero das Bacias Interiores |
+| **Actividade / Nicho** | Serviços de levantamento de dados cartográficos e recolha de amostragem de rocha, óleo e solo |
+| **Tipo de Sociedade** | SCDA |
+
+→ Consulte [[Ogimatech - Consultoria Empresarial e Institucional, Lda_5417014281]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

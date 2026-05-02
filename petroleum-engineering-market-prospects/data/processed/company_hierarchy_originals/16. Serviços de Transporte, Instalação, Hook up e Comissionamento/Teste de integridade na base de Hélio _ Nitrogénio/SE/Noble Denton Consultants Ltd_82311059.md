@@ -1,0 +1,8 @@
+# Noble Denton Consultants Ltd
+
+- **NIF:** 82311059
+- **Nome:** Noble Denton Consultants Ltd
+- **Status:** Preferência
+- **Serviço:** 16. Serviços de Transporte, Instalação, Hook up e Comissionamento
+- **Nicho:** Teste de integridade na base de Hélio / Nitrogénio
+- **Tipo:** SE

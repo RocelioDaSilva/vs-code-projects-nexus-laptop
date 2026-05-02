@@ -1,0 +1,13 @@
+# GLOBAL TELESAT LDA
+
+> 📌 **Perfil Completo:** [[GLOBAL TELESAT LDA_5402141312]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5402141312` |
+| **Status ANPG** | Preferência |
+| **Serviço** | 6. Serviços de Engenharia e gestão de Projectos (Pré-Feed, FEED e Engenharia de Detalhe) |
+| **Actividade / Nicho** | Fornecimento de Serviços de Engenharia e Modificações |
+| **Tipo de Sociedade** | SCA |
+
+→ Consulte [[GLOBAL TELESAT LDA_5402141312]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

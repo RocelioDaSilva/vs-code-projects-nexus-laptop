@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "ef3130c8f73b46e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d09f35c76047872",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5884d3cc7b76d333",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fullinfobetteroorganized.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "fullinfobetteroorganized"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b0725521764b30e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fc2650976ccc2ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e14b2879da296b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d332af5d8f412e3a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ed2b5dfa727c0731",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "12e83a2c20aea434",
+    "type": "split",
+    "children": [
+      {
+        "id": "279b4b40f11a96d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c715ed802d30f677",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "fullinfobetteroorganized.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for fullinfobetteroorganized"
+            }
+          },
+          {
+            "id": "8e8b1970ff7ea20c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "fullinfobetteroorganized.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from fullinfobetteroorganized"
+            }
+          },
+          {
+            "id": "03a85ce0266030ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ff0828d7f8b68efc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "efb644a238917894",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "fullinfobetteroorganized.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of fullinfobetteroorganized"
+            }
+          },
+          {
+            "id": "df9b1d560cb47ac5",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 572.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Lookup: Open lookup view": false
+    }
+  },
+  "active": "df9b1d560cb47ac5",
+  "lastOpenFiles": [
+    "company_hierarchy/_Profiles/—_—_2.md",
+    "company_hierarchy/_Profiles/—_—_1.md",
+    "company_hierarchy/_Profiles/—_—.md",
+    "company_hierarchy/_Profiles/Zximenes - Solucoes Imobiliarias , Lda_5000026301.md",
+    "company_hierarchy/_Profiles/ÁGUA MENHA YETO LDA_5417228680.md",
+    "company_hierarchy/_Profiles/ZWELA AO - Comunicação e Imagem, Lda._5401139969.md",
+    "company_hierarchy/_Profiles/Zutari Angola, Lda_5417010677.md",
+    "company_hierarchy/_Profiles/Zu Natchalow Comércio e serviços Lda_5000242578.md",
+    "company_hierarchy/_Profiles/Zillian Angola - Corretores de Seguros, Lda_5403088059.md",
+    "company_hierarchy/_Profiles/ZONA AMARELA - C.G E PRESTAÇÃO DE SERVIÇOS, LDA_5417585092.md",
+    "company_hierarchy/_Profiles/ZTECH ÁFRICA - ENGENHARIA E CONSTRUÇÃO, LDA_5001708660.md",
+    "company_hierarchy/_Profiles/ZIV-COMERCIO GERAL,LDA_5000864757.md",
+    "company_hierarchy/_Profiles/Zhongtian Technology Submarine Cable Co., Ltd._43379562.md",
+    "company_hierarchy/_Profiles/ZHONGAN HENGTAI - INDÚSTRIAL, LDA_5000077445.md",
+    "company_hierarchy/_Profiles/ZEUS TECH - PRESTAÇÃO DE SERVIÇOS E COMÉRCIO, LDA_5001275780.md",
+    "company_hierarchy/_Profiles/ZEYTRA TECH - COMÉRCIO E SERVIÇOS (SU), LDA_5002587700.md",
+    "company_hierarchy/_Profiles/ZHEJIANG HUIWENMEI STOVE CO., LTD._38340240.md",
+    "company_hierarchy/_Profiles/ZENTECH TECHNICAL SERVICES INC._16514324.md",
+    "company_hierarchy/_Profiles/Zentech Inc._08421662.md",
+    "company_hierarchy/_Profiles/ZENITH ENERGIES COMÉRCIO E PRESTAÇÃO DE SERVIÇOS LDA_5002901331.md",
+    "company_hierarchy/_Profiles/ZELUS (SU) LDA_5417461075.md",
+    "company_hierarchy/_Profiles/Zap Media, S.A_5417231126.md",
+    "company_hierarchy/_Profiles/Zegas&NCastro - Técnicas e Tecnologias (SU)Lda_5417174916.md",
+    "company_hierarchy/_Profiles/ZEDIUA- PRESTAÇÃO DE SERVIÇOS, LDA_5000547107.md",
+    "company_hierarchy/_Profiles/ZANGUILO - COMÉRCIO E INDÚSTRIA, LDA_5000509833.md",
+    "company_hierarchy/_Profiles/Zanecom Prestação De Serviço_5000241431.md",
+    "company_hierarchy/_Profiles",
+    "deduplicate_hierarchy.py",
+    "fill_company_reports.py",
+    "company_hierarchy_originals/10. Serviços de Fornecimento de Pessoal/Serviços de Assistência a Sondagem (D S A)/Unknown",
+    "company_hierarchy_originals/10. Serviços de Fornecimento de Pessoal/Recrutamento De Pessoal/SCA",
+    "company_hierarchy_originals/10. Serviços de Fornecimento de Pessoal/Recrutamento De Pessoal",
+    "company_hierarchy_originals/10. Serviços de Fornecimento de Pessoal/Operadores e gestores de terminais/Unknown",
+    "company_hierarchy_originals/10. Serviços de Fornecimento de Pessoal/Operadores e gestores de terminais/SE",
+    "company_hierarchy_originals/10. Serviços de Fornecimento de Pessoal/Operadores e gestores de terminais/SCDA",
+    "company_hierarchy_originals/10. Serviços de Fornecimento de Pessoal/Operadores e gestores de terminais/SCA"
+  ]
+}

@@ -1,0 +1,13 @@
+# T7H - SERVIÇOS, LDA
+
+> 📌 **Perfil Completo:** [[T7H - SERVIÇOS, LDA_5001416731]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5001416731` |
+| **Status ANPG** | — |
+| **Serviço** | 6. Serviços de Engenharia e gestão de Projectos (Pré-Feed, FEED e Engenharia de Detalhe) |
+| **Actividade / Nicho** | Fornecimento De Rede De Oleoduto (Onshore) |
+| **Tipo de Sociedade** | SCDA |
+
+→ Consulte [[T7H - SERVIÇOS, LDA_5001416731]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

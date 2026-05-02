@@ -1,0 +1,13 @@
+# M2R - ENGENHARIA, LIMITADA
+
+> 📌 **Perfil Completo:** [[M2R - ENGENHARIA, LIMITADA_5417257494]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5417257494` |
+| **Status ANPG** | Preferência |
+| **Serviço** | 12. Serviços de Operação Marítima |
+| **Actividade / Nicho** | Dragagem |
+| **Tipo de Sociedade** | SCA |
+
+→ Consulte [[M2R - ENGENHARIA, LIMITADA_5417257494]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

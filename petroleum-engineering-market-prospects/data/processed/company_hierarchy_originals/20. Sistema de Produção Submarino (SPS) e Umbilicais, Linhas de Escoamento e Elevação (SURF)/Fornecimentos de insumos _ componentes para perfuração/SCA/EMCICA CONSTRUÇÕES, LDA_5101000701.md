@@ -1,0 +1,8 @@
+# EMCICA CONSTRUÇÕES, LDA
+
+- **NIF:** 5101000701
+- **Nome:** EMCICA CONSTRUÇÕES, LDA
+- **Status:** —
+- **Serviço:** 20. Sistema de Produção Submarino (SPS) e Umbilicais, Linhas de Escoamento e Elevação (SURF)
+- **Nicho:** Fornecimentos de insumos / componentes para perfuração
+- **Tipo:** SCA

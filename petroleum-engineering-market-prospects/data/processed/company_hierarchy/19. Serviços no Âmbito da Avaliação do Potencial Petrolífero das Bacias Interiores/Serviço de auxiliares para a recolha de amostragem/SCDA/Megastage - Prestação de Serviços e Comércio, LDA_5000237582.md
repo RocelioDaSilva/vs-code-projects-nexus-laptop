@@ -1,0 +1,13 @@
+# Megastage - Prestação de Serviços e Comércio, LDA
+
+> 📌 **Perfil Completo:** [[Megastage - Prestação de Serviços e Comércio, LDA_5000237582]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5000237582` |
+| **Status ANPG** | Exclusividade |
+| **Serviço** | 19. Serviços no Âmbito da Avaliação do Potencial Petrolífero das Bacias Interiores |
+| **Actividade / Nicho** | Serviço de auxiliares para a recolha de amostragem |
+| **Tipo de Sociedade** | SCDA |
+
+→ Consulte [[Megastage - Prestação de Serviços e Comércio, LDA_5000237582]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

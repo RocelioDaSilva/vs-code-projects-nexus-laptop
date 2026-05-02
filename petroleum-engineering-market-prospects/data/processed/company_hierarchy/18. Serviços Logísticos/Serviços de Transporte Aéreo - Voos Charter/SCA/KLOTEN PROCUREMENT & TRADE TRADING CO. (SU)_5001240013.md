@@ -1,0 +1,13 @@
+# KLOTEN PROCUREMENT & TRADE TRADING CO. (SU)
+
+> 📌 **Perfil Completo:** [[KLOTEN PROCUREMENT & TRADE TRADING CO. (SU)_5001240013]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5001240013` |
+| **Status ANPG** | Preferência |
+| **Serviço** | 18. Serviços Logísticos |
+| **Actividade / Nicho** | Serviços de Transporte Aéreo - Voos Charter |
+| **Tipo de Sociedade** | SCA |
+
+→ Consulte [[KLOTEN PROCUREMENT & TRADE TRADING CO. (SU)_5001240013]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

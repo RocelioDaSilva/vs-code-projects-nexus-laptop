@@ -1,0 +1,8 @@
+# DELOITTE CONSULTORES, LDA
+
+- **NIF:** 5001189638
+- **Nome:** DELOITTE CONSULTORES, LDA
+- **Status:** Exclusividade
+- **Serviço:** 1. Consultoria, Assessoria e Auditoria
+- **Nicho:** Consultoria para Gestão de Carreiras
+- **Tipo:** SCA

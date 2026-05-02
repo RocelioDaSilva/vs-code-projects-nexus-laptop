@@ -1,0 +1,8 @@
+# Gemilenio Lda
+
+- **NIF:** 5000233641
+- **Nome:** Gemilenio Lda
+- **Status:** Preferência
+- **Serviço:** 18. Serviços Logísticos
+- **Nicho:** Fretes Aéreo e marítimo
+- **Tipo:** SCDA

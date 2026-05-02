@@ -1,0 +1,8 @@
+# FG-PRESTAÇÃO DE SERVIÇOS LDA
+
+- **NIF:** 5001014617
+- **Nome:** FG-PRESTAÇÃO DE SERVIÇOS LDA
+- **Status:** Preferência
+- **Serviço:** 3. Serviço de Suporte as Operações
+- **Nicho:** Fornecimento e Operação de Equipamento para manuseamento de carga
+- **Tipo:** SCA

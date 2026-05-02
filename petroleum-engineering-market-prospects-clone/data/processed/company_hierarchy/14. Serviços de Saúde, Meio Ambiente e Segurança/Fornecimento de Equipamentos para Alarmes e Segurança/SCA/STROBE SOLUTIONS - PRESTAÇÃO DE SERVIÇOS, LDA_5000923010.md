@@ -1,0 +1,13 @@
+# STROBE SOLUTIONS - PRESTAÇÃO DE SERVIÇOS, LDA
+
+> 📌 **Perfil Completo:** [[STROBE SOLUTIONS - PRESTAÇÃO DE SERVIÇOS, LDA_5000923010]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5000923010` |
+| **Status ANPG** | — |
+| **Serviço** | 14. Serviços de Saúde, Meio Ambiente e Segurança |
+| **Actividade / Nicho** | Fornecimento de Equipamentos para Alarmes e Segurança |
+| **Tipo de Sociedade** | SCA |
+
+→ Consulte [[STROBE SOLUTIONS - PRESTAÇÃO DE SERVIÇOS, LDA_5000923010]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

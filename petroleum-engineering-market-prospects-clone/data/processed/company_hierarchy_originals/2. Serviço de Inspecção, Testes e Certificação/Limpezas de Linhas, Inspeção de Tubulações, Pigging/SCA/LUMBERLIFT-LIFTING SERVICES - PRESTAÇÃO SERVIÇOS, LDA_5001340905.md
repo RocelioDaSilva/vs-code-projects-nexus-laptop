@@ -1,0 +1,8 @@
+# LUMBERLIFT-LIFTING SERVICES - PRESTAÇÃO SERVIÇOS, LDA
+
+- **NIF:** 5001340905
+- **Nome:** LUMBERLIFT-LIFTING SERVICES - PRESTAÇÃO SERVIÇOS, LDA
+- **Status:** —
+- **Serviço:** 2. Serviço de Inspecção, Testes e Certificação
+- **Nicho:** Limpezas de Linhas, Inspeção de Tubulações, Pigging
+- **Tipo:** SCA

@@ -1,0 +1,8 @@
+# Green Media,LDA
+
+- **NIF:** 5112163801
+- **Nome:** Green Media,LDA
+- **Status:** —
+- **Serviço:** 17. Serviços e Bens de Perfuração, Completação e Intervenções de Poços
+- **Nicho:** Fornecimento de Acessórios de Perfuração
+- **Tipo:** SCA

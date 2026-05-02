@@ -1,13 +1,3 @@
-# Minimal ignores to avoid Git indexing/read errors on OneDrive
-# Ignore Python virtual environments
-**/venv/
-**/.venv/
-# Ignore Python caches and compiled files
-__pycache__/
-*.pyc
-# Ignore the generated workspace archive and other large archives
 workspace-archive.zip
 *.zip
-# Common OS files
-.DS_Store
-Thumbs.db
+

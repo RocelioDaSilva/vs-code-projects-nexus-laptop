@@ -1,0 +1,8 @@
+# Easy People, Lda
+
+- **NIF:** 5417103195
+- **Nome:** Easy People, Lda
+- **Status:** Exclusividade
+- **Serviço:** 15. Serviços de Tecnologias de Informação e Comunicação
+- **Nicho:** Fornecimento de Equipamentos de Impressão e Digitalização
+- **Tipo:** SCA

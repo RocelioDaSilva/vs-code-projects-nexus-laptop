@@ -1,0 +1,8 @@
+# Abyarin Soluções - Comércio Geral e Prestação de Serviços, (SU), Lda
+
+- **NIF:** 5000784990
+- **Nome:** Abyarin Soluções - Comércio Geral e Prestação de Serviços, (SU), Lda
+- **Status:** —
+- **Serviço:** 10. Serviços de Fornecimento de Pessoal
+- **Nicho:** Suporte as actividades de Sondagens
+- **Tipo:** SCA

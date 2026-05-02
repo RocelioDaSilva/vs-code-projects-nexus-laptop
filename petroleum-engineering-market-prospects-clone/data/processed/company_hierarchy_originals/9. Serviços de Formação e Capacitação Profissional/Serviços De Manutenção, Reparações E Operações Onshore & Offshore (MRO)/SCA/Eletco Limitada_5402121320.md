@@ -1,0 +1,8 @@
+# Eletco Limitada
+
+- **NIF:** 5402121320
+- **Nome:** Eletco Limitada
+- **Status:** —
+- **Serviço:** 9. Serviços de Formação e Capacitação Profissional
+- **Nicho:** Serviços De Manutenção, Reparações E Operações Onshore & Offshore (MRO)
+- **Tipo:** SCA

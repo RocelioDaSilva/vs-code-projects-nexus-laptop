@@ -1,0 +1,13 @@
+# V ZION EXPRESS LDA
+
+> 📌 **Perfil Completo:** [[V ZION EXPRESS LDA_5417438154]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5417438154` |
+| **Status ANPG** | — |
+| **Serviço** | 4. Serviços de Apoio |
+| **Actividade / Nicho** | Serviços Da Sala De Estar Aeroportuária E Apoio |
+| **Tipo de Sociedade** | SCA |
+
+→ Consulte [[V ZION EXPRESS LDA_5417438154]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

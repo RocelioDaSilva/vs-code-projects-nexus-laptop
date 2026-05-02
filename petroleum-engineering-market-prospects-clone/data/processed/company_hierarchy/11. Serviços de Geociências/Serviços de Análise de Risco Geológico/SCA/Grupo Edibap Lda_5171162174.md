@@ -1,0 +1,13 @@
+# Grupo Edibap Lda
+
+> 📌 **Perfil Completo:** [[Grupo Edibap Lda_5171162174]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5171162174` |
+| **Status ANPG** | — |
+| **Serviço** | 11. Serviços de Geociências |
+| **Actividade / Nicho** | Serviços de Análise de Risco Geológico |
+| **Tipo de Sociedade** | SCA |
+
+→ Consulte [[Grupo Edibap Lda_5171162174]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

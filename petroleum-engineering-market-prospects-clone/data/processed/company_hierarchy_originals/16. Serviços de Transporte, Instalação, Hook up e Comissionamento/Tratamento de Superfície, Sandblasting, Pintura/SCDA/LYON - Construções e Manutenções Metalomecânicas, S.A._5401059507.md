@@ -1,0 +1,8 @@
+# LYON - Construções e Manutenções Metalomecânicas, S.A.
+
+- **NIF:** 5401059507
+- **Nome:** LYON - Construções e Manutenções Metalomecânicas, S.A.
+- **Status:** Preferência
+- **Serviço:** 16. Serviços de Transporte, Instalação, Hook up e Comissionamento
+- **Nicho:** Tratamento de Superfície, Sandblasting, Pintura
+- **Tipo:** SCDA

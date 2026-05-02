@@ -1,0 +1,13 @@
+# VELUB - COMERCIO GERAL E PRESTACAO DE SERVICOS, LDA
+
+> 📌 **Perfil Completo:** [[VELUB - COMERCIO GERAL E PRESTACAO DE SERVICOS, LDA_5001310666]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5001310666` |
+| **Status ANPG** | — |
+| **Serviço** | 14. Serviços de Saúde, Meio Ambiente e Segurança |
+| **Actividade / Nicho** | Fornecimento de Equipamentos para Alarmes e Segurança |
+| **Tipo de Sociedade** | SCA |
+
+→ Consulte [[VELUB - COMERCIO GERAL E PRESTACAO DE SERVICOS, LDA_5001310666]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

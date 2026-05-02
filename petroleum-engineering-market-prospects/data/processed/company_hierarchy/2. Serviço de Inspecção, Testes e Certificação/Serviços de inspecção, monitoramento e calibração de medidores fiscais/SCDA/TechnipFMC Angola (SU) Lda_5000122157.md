@@ -1,0 +1,13 @@
+# TechnipFMC Angola (SU) Lda
+
+> 📌 **Perfil Completo:** [[TechnipFMC Angola (SU) Lda_5000122157]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5000122157` |
+| **Status ANPG** | Preferência |
+| **Serviço** | 2. Serviço de Inspecção, Testes e Certificação |
+| **Actividade / Nicho** | Serviços de inspecção, monitoramento e calibração de medidores fiscais |
+| **Tipo de Sociedade** | SCDA |
+
+→ Consulte [[TechnipFMC Angola (SU) Lda_5000122157]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

@@ -1,0 +1,8 @@
+# AFRITUDE - COMÉRCIO E PRESTAÇÃO DE SERVIÇOS, LDA
+
+- **NIF:** 5000474134
+- **Nome:** AFRITUDE - COMÉRCIO E PRESTAÇÃO DE SERVIÇOS, LDA
+- **Status:** Preferência
+- **Serviço:** 3. Serviço de Suporte as Operações
+- **Nicho:** Fornecimento e manutenção de válvulas mecânicas
+- **Tipo:** SCA

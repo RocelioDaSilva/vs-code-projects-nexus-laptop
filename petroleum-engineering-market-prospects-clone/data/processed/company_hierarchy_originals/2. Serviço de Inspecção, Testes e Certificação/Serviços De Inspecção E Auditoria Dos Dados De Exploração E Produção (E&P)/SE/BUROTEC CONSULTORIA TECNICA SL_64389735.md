@@ -1,0 +1,8 @@
+# BUROTEC CONSULTORIA TECNICA SL
+
+- **NIF:** 64389735
+- **Nome:** BUROTEC CONSULTORIA TECNICA SL
+- **Status:** —
+- **Serviço:** 2. Serviço de Inspecção, Testes e Certificação
+- **Nicho:** Serviços De Inspecção E Auditoria Dos Dados De Exploração E Produção (E&P)
+- **Tipo:** SE

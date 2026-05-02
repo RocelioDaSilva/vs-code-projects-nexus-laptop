@@ -1,0 +1,13 @@
+# PAPELARIA CASA DO PAPEL- TECNOLOGIA, COMERCIO E PRESTAÇAO DE SERVIÇOS, (SU), LDA
+
+> 📌 **Perfil Completo:** [[PAPELARIA CASA DO PAPEL- TECNOLOGIA, COMERCIO E PRESTAÇAO DE SERVIÇOS, (SU), LDA_5001334395]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5001334395` |
+| **Status ANPG** | — |
+| **Serviço** | 4. Serviços de Apoio |
+| **Actividade / Nicho** | Fornecimento De Material De Economato |
+| **Tipo de Sociedade** | SCA |
+
+→ Consulte [[PAPELARIA CASA DO PAPEL- TECNOLOGIA, COMERCIO E PRESTAÇAO DE SERVIÇOS, (SU), LDA_5001334395]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

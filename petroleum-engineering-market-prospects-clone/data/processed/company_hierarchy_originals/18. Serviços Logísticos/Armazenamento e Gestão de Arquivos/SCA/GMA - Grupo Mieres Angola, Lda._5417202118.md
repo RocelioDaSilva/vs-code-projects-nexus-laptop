@@ -1,0 +1,8 @@
+# GMA - Grupo Mieres Angola, Lda.
+
+- **NIF:** 5417202118
+- **Nome:** GMA - Grupo Mieres Angola, Lda.
+- **Status:** Exclusividade
+- **Serviço:** 18. Serviços Logísticos
+- **Nicho:** Armazenamento e Gestão de Arquivos
+- **Tipo:** SCA

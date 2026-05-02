@@ -1,0 +1,8 @@
+# PROMETIM INTERNATIONAL (FZCO)
+
+- **NIF:** 47446753
+- **Nome:** PROMETIM INTERNATIONAL (FZCO)
+- **Status:** —
+- **Serviço:** 2. Serviço de Inspecção, Testes e Certificação
+- **Nicho:** Inspeção de QA/QC
+- **Tipo:** SE

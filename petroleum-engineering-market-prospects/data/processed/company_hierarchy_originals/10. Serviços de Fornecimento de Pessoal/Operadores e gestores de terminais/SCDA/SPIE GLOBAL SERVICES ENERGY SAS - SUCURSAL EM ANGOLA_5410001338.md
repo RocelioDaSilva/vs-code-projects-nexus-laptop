@@ -1,0 +1,8 @@
+# SPIE GLOBAL SERVICES ENERGY SAS - SUCURSAL EM ANGOLA
+
+- **NIF:** 5410001338
+- **Nome:** SPIE GLOBAL SERVICES ENERGY SAS - SUCURSAL EM ANGOLA
+- **Status:** Preferência
+- **Serviço:** 10. Serviços de Fornecimento de Pessoal
+- **Nicho:** Operadores e gestores de terminais
+- **Tipo:** SCDA

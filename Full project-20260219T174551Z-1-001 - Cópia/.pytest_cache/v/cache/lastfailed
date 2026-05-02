@@ -1,0 +1,9 @@
+{
+  "code_unified/ARCHIVE/tests_phase5_frozen/tests_archived_phase5/test_gee_extraction.py::test_export_to_geotiff_starts_task": true,
+  "code_unified/ARCHIVE/tests_phase5_frozen/tests_archived_phase5/test_e2e_workflows.py::TestE2ELCOECalculation::test_lcoe_different_system_sizes": true,
+  "code_unified/ARCHIVE/tests_phase5_frozen/tests_archived_phase5/test_security.py::TestDataValidation::test_invalid_lifetime_years": true,
+  "code_unified/app_codebase/geesp-angola/backend/tests/unit/test_communities.py::test_communities_csv_exists_and_count": true,
+  "code_unified/app_codebase/geesp-angola/backend/tests/unit/test_dashboard_components.py::test_dashboard_file_contains_title_and_pages": true,
+  "code_unified/ARCHIVE/tests_phase5_frozen/tests_archived_phase5/test_e2e_workflows.py::TestE2ECompleteWorkflow::test_full_analysis_pipeline_site_selection": true,
+  "code_unified/ARCHIVE/tests_phase5_frozen/tests_archived_phase5/test_e2e_workflows.py::TestE2ELCOECalculation::test_full_lcoe_workflow_10MW_system": true
+}

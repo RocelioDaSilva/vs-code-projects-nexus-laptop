@@ -1,0 +1,8 @@
+# Faustware Soluções e prestação de serviços lda
+
+- **NIF:** 5000971901
+- **Nome:** Faustware Soluções e prestação de serviços lda
+- **Status:** Exclusividade
+- **Serviço:** 9. Serviços de Formação e Capacitação Profissional
+- **Nicho:** Formação técnico profissional
+- **Tipo:** SCA

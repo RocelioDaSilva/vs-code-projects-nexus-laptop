@@ -1,0 +1,13 @@
+# NAK ENERGY OIL & GAS LDA.
+
+> 📌 **Perfil Completo:** [[NAK ENERGY OIL & GAS LDA._5417145076]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5417145076` |
+| **Status ANPG** | Exclusividade |
+| **Serviço** | 19. Serviços no Âmbito da Avaliação do Potencial Petrolífero das Bacias Interiores |
+| **Actividade / Nicho** | Serviço de auxiliares para a recolha de amostragem |
+| **Tipo de Sociedade** | SCA |
+
+→ Consulte [[NAK ENERGY OIL & GAS LDA._5417145076]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

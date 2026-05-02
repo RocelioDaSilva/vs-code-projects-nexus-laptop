@@ -1,0 +1,8 @@
+# OneSubsea AS
+
+- **NIF:** 69858718
+- **Nome:** OneSubsea AS
+- **Status:** —
+- **Serviço:** 17. Serviços e Bens de Perfuração, Completação e Intervenções de Poços
+- **Nicho:** Fornecimento de Downhole Tools
+- **Tipo:** SE

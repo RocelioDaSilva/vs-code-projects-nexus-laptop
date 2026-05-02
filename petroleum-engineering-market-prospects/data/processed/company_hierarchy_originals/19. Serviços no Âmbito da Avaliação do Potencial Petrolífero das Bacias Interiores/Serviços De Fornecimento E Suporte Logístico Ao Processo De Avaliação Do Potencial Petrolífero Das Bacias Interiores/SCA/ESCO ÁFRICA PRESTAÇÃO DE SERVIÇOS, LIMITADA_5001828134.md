@@ -1,0 +1,8 @@
+# ESCO ÁFRICA PRESTAÇÃO DE SERVIÇOS, LIMITADA
+
+- **NIF:** 5001828134
+- **Nome:** ESCO ÁFRICA PRESTAÇÃO DE SERVIÇOS, LIMITADA
+- **Status:** —
+- **Serviço:** 19. Serviços no Âmbito da Avaliação do Potencial Petrolífero das Bacias Interiores
+- **Nicho:** Serviços De Fornecimento E Suporte Logístico Ao Processo De Avaliação Do Potencial Petrolífero Das Bacias Interiores
+- **Tipo:** SCA

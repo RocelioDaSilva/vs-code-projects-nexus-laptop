@@ -1,0 +1,8 @@
+# SUBOIL ANGOLA - COMÉRCIO GERAL E  PRESTAÇÃO DE SERVIÇOS, (SU), LDA
+
+- **NIF:** 5002290316
+- **Nome:** SUBOIL ANGOLA - COMÉRCIO GERAL E  PRESTAÇÃO DE SERVIÇOS, (SU), LDA
+- **Status:** —
+- **Serviço:** 12. Serviços de Operação Marítima
+- **Nicho:** Fretamento Da Unidade Flutuante De Produção Armazenamento E Descarregamento De Petróleo Bruto (FPSO)
+- **Tipo:** SCA

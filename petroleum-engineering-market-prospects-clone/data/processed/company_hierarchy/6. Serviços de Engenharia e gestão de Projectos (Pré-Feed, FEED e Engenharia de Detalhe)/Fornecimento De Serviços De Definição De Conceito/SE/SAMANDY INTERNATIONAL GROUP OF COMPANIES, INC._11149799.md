@@ -1,0 +1,13 @@
+# SAMANDY INTERNATIONAL GROUP OF COMPANIES, INC.
+
+> 📌 **Perfil Completo:** [[SAMANDY INTERNATIONAL GROUP OF COMPANIES, INC._11149799]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `11149799` |
+| **Status ANPG** | — |
+| **Serviço** | 6. Serviços de Engenharia e gestão de Projectos (Pré-Feed, FEED e Engenharia de Detalhe) |
+| **Actividade / Nicho** | Fornecimento De Serviços De Definição De Conceito |
+| **Tipo de Sociedade** | SE |
+
+→ Consulte [[SAMANDY INTERNATIONAL GROUP OF COMPANIES, INC._11149799]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

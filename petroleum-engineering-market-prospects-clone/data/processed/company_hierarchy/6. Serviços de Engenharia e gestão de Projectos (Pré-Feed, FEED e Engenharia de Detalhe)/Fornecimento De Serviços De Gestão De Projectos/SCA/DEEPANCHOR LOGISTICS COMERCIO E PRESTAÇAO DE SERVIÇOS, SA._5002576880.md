@@ -1,0 +1,13 @@
+# DEEPANCHOR LOGISTICS COMERCIO E PRESTAÇAO DE SERVIÇOS, SA.
+
+> 📌 **Perfil Completo:** [[DEEPANCHOR LOGISTICS COMERCIO E PRESTAÇAO DE SERVIÇOS, SA._5002576880]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5002576880` |
+| **Status ANPG** | — |
+| **Serviço** | 6. Serviços de Engenharia e gestão de Projectos (Pré-Feed, FEED e Engenharia de Detalhe) |
+| **Actividade / Nicho** | Fornecimento De Serviços De Gestão De Projectos |
+| **Tipo de Sociedade** | SCA |
+
+→ Consulte [[DEEPANCHOR LOGISTICS COMERCIO E PRESTAÇAO DE SERVIÇOS, SA._5002576880]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

@@ -1,0 +1,8 @@
+# AD-EMMO- PRESTAÇÃO DE SERVICOS, LDA
+
+- **NIF:** 5002036010
+- **Nome:** AD-EMMO- PRESTAÇÃO DE SERVICOS, LDA
+- **Status:** —
+- **Serviço:** 13. Serviços de Reservatório
+- **Nicho:** Serviços De Avaliação De Reservatórios Geológicos Para Armazenamento De CO2
+- **Tipo:** SCA

@@ -1,0 +1,8 @@
+# MARKX COMERCIO GEAL E PRESTAÇAO DE SERVIÇOS, LDA, LDA
+
+- **NIF:** 5000877034
+- **Nome:** MARKX COMERCIO GEAL E PRESTAÇAO DE SERVIÇOS, LDA, LDA
+- **Status:** Exclusividade
+- **Serviço:** 14. Serviços de Saúde, Meio Ambiente e Segurança
+- **Nicho:** Serviços de saneamento básico
+- **Tipo:** SCA

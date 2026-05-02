@@ -1,0 +1,8 @@
+# Hilong Marine Engineering (Hongkong) Ltd.
+
+- **NIF:** 77772
+- **Nome:** Hilong Marine Engineering (Hongkong) Ltd.
+- **Status:** —
+- **Serviço:** 6. Serviços de Engenharia e gestão de Projectos (Pré-Feed, FEED e Engenharia de Detalhe)
+- **Nicho:** Unidade flutuante de armazenamento (FSO)
+- **Tipo:** SE

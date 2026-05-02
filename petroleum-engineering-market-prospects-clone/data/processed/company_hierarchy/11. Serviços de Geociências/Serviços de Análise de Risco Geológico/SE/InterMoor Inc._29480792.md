@@ -1,0 +1,13 @@
+# InterMoor Inc.
+
+> 📌 **Perfil Completo:** [[InterMoor Inc._29480792]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `29480792` |
+| **Status ANPG** | — |
+| **Serviço** | 11. Serviços de Geociências |
+| **Actividade / Nicho** | Serviços de Análise de Risco Geológico |
+| **Tipo de Sociedade** | SE |
+
+→ Consulte [[InterMoor Inc._29480792]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

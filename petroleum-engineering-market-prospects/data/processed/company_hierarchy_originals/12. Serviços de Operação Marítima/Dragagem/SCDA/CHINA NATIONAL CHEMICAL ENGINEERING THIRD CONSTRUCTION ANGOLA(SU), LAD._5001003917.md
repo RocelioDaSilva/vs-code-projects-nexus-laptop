@@ -1,0 +1,8 @@
+# CHINA NATIONAL CHEMICAL ENGINEERING THIRD CONSTRUCTION ANGOLA(SU), LAD.
+
+- **NIF:** 5001003917
+- **Nome:** CHINA NATIONAL CHEMICAL ENGINEERING THIRD CONSTRUCTION ANGOLA(SU), LAD.
+- **Status:** Preferência
+- **Serviço:** 12. Serviços de Operação Marítima
+- **Nicho:** Dragagem
+- **Tipo:** SCDA

@@ -1,0 +1,8 @@
+# PRIME PROCUREMENT LOGISTICS
+
+- **NIF:** 5001781553
+- **Nome:** PRIME PROCUREMENT LOGISTICS
+- **Status:** —
+- **Serviço:** 19. Serviços no Âmbito da Avaliação do Potencial Petrolífero das Bacias Interiores
+- **Nicho:** Serviços De Fornecimento E Suporte Logístico Ao Processo De Avaliação Do Potencial Petrolífero Das Bacias Interiores
+- **Tipo:** SCA

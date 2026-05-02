@@ -1,0 +1,8 @@
+# Jardin do Sul - Comercio e Serviços, Lda
+
+- **NIF:** 5001486659
+- **Nome:** Jardin do Sul - Comercio e Serviços, Lda
+- **Status:** —
+- **Serviço:** 17. Serviços e Bens de Perfuração, Completação e Intervenções de Poços
+- **Nicho:** Fornecimento de Equipamentos de proteção individual (PPE)
+- **Tipo:** SCA

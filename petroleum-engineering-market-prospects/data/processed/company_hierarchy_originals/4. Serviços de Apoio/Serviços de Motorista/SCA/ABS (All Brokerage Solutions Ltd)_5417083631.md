@@ -1,0 +1,8 @@
+# ABS (All Brokerage Solutions Ltd)
+
+- **NIF:** 5417083631
+- **Nome:** ABS (All Brokerage Solutions Ltd)
+- **Status:** —
+- **Serviço:** 4. Serviços de Apoio
+- **Nicho:** Serviços de Motorista
+- **Tipo:** SCA

@@ -1,0 +1,13 @@
+# DMV INÊS - TRANSITARIOS
+
+> 📌 **Perfil Completo:** [[DMV INÊS - TRANSITARIOS_5417266493]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5417266493` |
+| **Status ANPG** | Preferência |
+| **Serviço** | 20. Sistema de Produção Submarino (SPS) e Umbilicais, Linhas de Escoamento e Elevação (SURF) |
+| **Actividade / Nicho** | Fornecimento do PGBs (Permanent Guide Basis) |
+| **Tipo de Sociedade** | SCA |
+
+→ Consulte [[DMV INÊS - TRANSITARIOS_5417266493]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

@@ -1,0 +1,8 @@
+# ELECTROVERDE - INSTALAÇÕES ELÉCTRICAS, LDA
+
+- **NIF:** 5417359289
+- **Nome:** ELECTROVERDE - INSTALAÇÕES ELÉCTRICAS, LDA
+- **Status:** Preferência
+- **Serviço:** 1. Consultoria, Assessoria e Auditoria
+- **Nicho:** Administração e Gestão de Projectos
+- **Tipo:** SCDA

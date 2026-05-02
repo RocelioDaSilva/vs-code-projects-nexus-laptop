@@ -1,0 +1,8 @@
+# ESFERA PURA - Prestação de Serviços (SU), LDa
+
+- **NIF:** 5001762494
+- **Nome:** ESFERA PURA - Prestação de Serviços (SU), LDa
+- **Status:** —
+- **Serviço:** 6. Serviços de Engenharia e gestão de Projectos (Pré-Feed, FEED e Engenharia de Detalhe)
+- **Nicho:** Fornecimento De Serviços De Engenharia E Design
+- **Tipo:** SCA

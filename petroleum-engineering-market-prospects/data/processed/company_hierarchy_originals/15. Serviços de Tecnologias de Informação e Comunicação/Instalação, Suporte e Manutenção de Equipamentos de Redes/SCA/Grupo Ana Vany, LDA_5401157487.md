@@ -1,0 +1,8 @@
+# Grupo Ana Vany, LDA
+
+- **NIF:** 5401157487
+- **Nome:** Grupo Ana Vany, LDA
+- **Status:** —
+- **Serviço:** 15. Serviços de Tecnologias de Informação e Comunicação
+- **Nicho:** Instalação, Suporte e Manutenção de Equipamentos de Redes
+- **Tipo:** SCA

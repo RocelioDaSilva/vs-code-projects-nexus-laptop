@@ -1,0 +1,8 @@
+# Green Touch Services Lda
+
+- **NIF:** 5480000063
+- **Nome:** Green Touch Services Lda
+- **Status:** Preferência
+- **Serviço:** 14. Serviços de Saúde, Meio Ambiente e Segurança
+- **Nicho:** Serviços de medição de gás tóxico
+- **Tipo:** SCA

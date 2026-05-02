@@ -1,0 +1,8 @@
+# West Indigo Solutions
+
+- **NIF:** 58391980
+- **Nome:** West Indigo Solutions
+- **Status:** —
+- **Serviço:** 9. Serviços de Formação e Capacitação Profissional
+- **Nicho:** Serviços De Manutenção, Reparações E Operações Onshore & Offshore (MRO)
+- **Tipo:** SE

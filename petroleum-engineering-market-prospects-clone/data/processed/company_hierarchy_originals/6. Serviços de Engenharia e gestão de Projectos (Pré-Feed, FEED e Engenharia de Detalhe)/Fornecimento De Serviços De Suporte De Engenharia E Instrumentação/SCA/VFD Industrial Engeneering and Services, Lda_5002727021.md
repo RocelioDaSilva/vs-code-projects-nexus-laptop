@@ -1,0 +1,8 @@
+# VFD Industrial Engeneering and Services, Lda
+
+- **NIF:** 5002727021
+- **Nome:** VFD Industrial Engeneering and Services, Lda
+- **Status:** —
+- **Serviço:** 6. Serviços de Engenharia e gestão de Projectos (Pré-Feed, FEED e Engenharia de Detalhe)
+- **Nicho:** Fornecimento De Serviços De Suporte De Engenharia E Instrumentação
+- **Tipo:** SCA

@@ -1,0 +1,13 @@
+# FLUIDES SERVICE TECHNOLOGIES
+
+> 📌 **Perfil Completo:** [[FLUIDES SERVICE TECHNOLOGIES_09746008]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `09746008` |
+| **Status ANPG** | Preferência |
+| **Serviço** | 6. Serviços de Engenharia e gestão de Projectos (Pré-Feed, FEED e Engenharia de Detalhe) |
+| **Actividade / Nicho** | Sistema de queima de gás |
+| **Tipo de Sociedade** | SE |
+
+→ Consulte [[FLUIDES SERVICE TECHNOLOGIES_09746008]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

@@ -1,0 +1,13 @@
+# ABS (All Brokerage Solutions Ltd)
+
+> 📌 **Perfil Completo:** [[ABS (All Brokerage Solutions Ltd)_5417083631]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5417083631` |
+| **Status ANPG** | Preferência |
+| **Serviço** | 3. Serviço de Suporte as Operações |
+| **Actividade / Nicho** | Fornecimento de motores elétricos e peças de reposição para apoiar as operações |
+| **Tipo de Sociedade** | SCA |
+
+→ Consulte [[ABS (All Brokerage Solutions Ltd)_5417083631]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

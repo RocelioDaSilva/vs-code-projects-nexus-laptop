@@ -1,0 +1,13 @@
+# PROMETIM INTERNATIONAL (FZCO)
+
+> 📌 **Perfil Completo:** [[PROMETIM INTERNATIONAL (FZCO)_47446753]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `47446753` |
+| **Status ANPG** | Preferência |
+| **Serviço** | 2. Serviço de Inspecção, Testes e Certificação |
+| **Actividade / Nicho** | Inspeção de QA_QC |
+| **Tipo de Sociedade** | SE |
+
+→ Consulte [[PROMETIM INTERNATIONAL (FZCO)_47446753]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

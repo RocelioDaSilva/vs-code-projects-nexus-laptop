@@ -1,0 +1,8 @@
+# V.V.M.A COMÉRCIO E PRESTAÇÃO DE SERVIÇOS, LDA
+
+- **NIF:** 5001004263
+- **Nome:** V.V.M.A COMÉRCIO E PRESTAÇÃO DE SERVIÇOS, LDA
+- **Status:** —
+- **Serviço:** 10. Serviços de Fornecimento de Pessoal
+- **Nicho:** Especialistas De Segurança E Meio Ambiente
+- **Tipo:** SCA

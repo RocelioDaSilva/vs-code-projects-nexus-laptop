@@ -1,0 +1,13 @@
+# ORGANIZAÇÕES D.S.C. & K.LDA
+
+> 📌 **Perfil Completo:** [[ORGANIZAÇÕES D.S.C. & K.LDA_5000418471]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5000418471` |
+| **Status ANPG** | Exclusividade |
+| **Serviço** | 6. Serviços de Engenharia e gestão de Projectos (Pré-Feed, FEED e Engenharia de Detalhe) |
+| **Actividade / Nicho** | Sistema de escoamento de gás (Onshore) |
+| **Tipo de Sociedade** | SCA |
+
+→ Consulte [[ORGANIZAÇÕES D.S.C. & K.LDA_5000418471]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

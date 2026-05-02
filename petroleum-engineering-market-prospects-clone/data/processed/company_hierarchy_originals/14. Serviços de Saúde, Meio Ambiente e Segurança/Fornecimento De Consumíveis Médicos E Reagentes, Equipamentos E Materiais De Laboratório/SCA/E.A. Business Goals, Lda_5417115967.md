@@ -1,0 +1,8 @@
+# E.A. Business Goals, Lda
+
+- **NIF:** 5417115967
+- **Nome:** E.A. Business Goals, Lda
+- **Status:** —
+- **Serviço:** 14. Serviços de Saúde, Meio Ambiente e Segurança
+- **Nicho:** Fornecimento De Consumíveis Médicos E Reagentes, Equipamentos E Materiais De Laboratório
+- **Tipo:** SCA

@@ -1,0 +1,13 @@
+# ORCABESP-SERVICES & ENGINEERING, LDA
+
+> 📌 **Perfil Completo:** [[ORCABESP-SERVICES & ENGINEERING, LDA_5001221922]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5001221922` |
+| **Status ANPG** | Preferência |
+| **Serviço** | 1. Consultoria, Assessoria e Auditoria |
+| **Actividade / Nicho** | Consultoria para a Tradução e Elaboração de Manuais |
+| **Tipo de Sociedade** | SCA |
+
+→ Consulte [[ORCABESP-SERVICES & ENGINEERING, LDA_5001221922]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

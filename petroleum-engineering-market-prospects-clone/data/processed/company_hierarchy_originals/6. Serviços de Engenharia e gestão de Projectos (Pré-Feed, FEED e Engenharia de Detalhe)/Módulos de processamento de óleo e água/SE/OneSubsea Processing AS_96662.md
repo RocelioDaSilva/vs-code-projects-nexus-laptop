@@ -1,0 +1,8 @@
+# OneSubsea Processing AS
+
+- **NIF:** 96662
+- **Nome:** OneSubsea Processing AS
+- **Status:** Preferência
+- **Serviço:** 6. Serviços de Engenharia e gestão de Projectos (Pré-Feed, FEED e Engenharia de Detalhe)
+- **Nicho:** Módulos de processamento de óleo e água
+- **Tipo:** SE

@@ -1,0 +1,13 @@
+# MAGEPA - MANUTENÇÃO E GESTÃO PATRIMONIAL LDA
+
+> 📌 **Perfil Completo:** [[MAGEPA - MANUTENÇÃO E GESTÃO PATRIMONIAL LDA_5417188565]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5417188565` |
+| **Status ANPG** | Exclusividade |
+| **Serviço** | 6. Serviços de Engenharia e gestão de Projectos (Pré-Feed, FEED e Engenharia de Detalhe) |
+| **Actividade / Nicho** | Serviços de Suporte de Engenharia e Instrumentação |
+| **Tipo de Sociedade** | SCA |
+
+→ Consulte [[MAGEPA - MANUTENÇÃO E GESTÃO PATRIMONIAL LDA_5417188565]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

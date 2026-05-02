@@ -1,0 +1,13 @@
+# NILMIGUEL BUSINESS SOLUTIONS,LDA
+
+> 📌 **Perfil Completo:** [[NILMIGUEL BUSINESS SOLUTIONS,LDA_5118003440]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5118003440` |
+| **Status ANPG** | Preferência |
+| **Serviço** | 2. Serviço de Inspecção, Testes e Certificação |
+| **Actividade / Nicho** | Serviços de inspecção e certificação de Gruas e Equipamentos de Elevação |
+| **Tipo de Sociedade** | SCA |
+
+→ Consulte [[NILMIGUEL BUSINESS SOLUTIONS,LDA_5118003440]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

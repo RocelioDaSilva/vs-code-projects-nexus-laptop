@@ -1,0 +1,8 @@
+# AINAS TECH - COMERCIO E PRESTAÇÃO DE SERVIÇOS
+
+- **NIF:** 5000548812
+- **Nome:** AINAS TECH - COMERCIO E PRESTAÇÃO DE SERVIÇOS
+- **Status:** —
+- **Serviço:** 15. Serviços de Tecnologias de Informação e Comunicação
+- **Nicho:** Fornecimento de serviços de Internet
+- **Tipo:** SCA

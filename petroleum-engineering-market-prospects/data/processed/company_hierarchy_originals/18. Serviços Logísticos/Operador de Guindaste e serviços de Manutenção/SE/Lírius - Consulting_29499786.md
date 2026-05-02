@@ -1,0 +1,8 @@
+# Lírius - Consulting
+
+- **NIF:** 29499786
+- **Nome:** Lírius - Consulting
+- **Status:** Preferência
+- **Serviço:** 18. Serviços Logísticos
+- **Nicho:** Operador de Guindaste e serviços de Manutenção
+- **Tipo:** SE

@@ -1,0 +1,8 @@
+# A. J. Castilho Prestação de Serviços (SU). LDA
+
+- **NIF:** 5000577898
+- **Nome:** A. J. Castilho Prestação de Serviços (SU). LDA
+- **Status:** Concorrência
+- **Serviço:** 14. Serviços de Saúde, Meio Ambiente e Segurança
+- **Nicho:** Serviços de gestão de resíduos de aparas
+- **Tipo:** SCA

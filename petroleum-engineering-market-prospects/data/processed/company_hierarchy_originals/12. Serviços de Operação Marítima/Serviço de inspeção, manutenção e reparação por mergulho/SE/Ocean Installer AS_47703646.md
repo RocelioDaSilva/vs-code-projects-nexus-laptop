@@ -1,0 +1,8 @@
+# Ocean Installer AS
+
+- **NIF:** 47703646
+- **Nome:** Ocean Installer AS
+- **Status:** Preferência
+- **Serviço:** 12. Serviços de Operação Marítima
+- **Nicho:** Serviço de inspeção, manutenção e reparação por mergulho
+- **Tipo:** SE

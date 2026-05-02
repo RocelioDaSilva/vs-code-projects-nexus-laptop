@@ -1,0 +1,8 @@
+# DILIAM - PRESTAÇÃO DE SERVIÇOS (SU) , LDA
+
+- **NIF:** 5484074355
+- **Nome:** DILIAM - PRESTAÇÃO DE SERVIÇOS (SU) , LDA
+- **Status:** —
+- **Serviço:** 17. Serviços e Bens de Perfuração, Completação e Intervenções de Poços
+- **Nicho:** Fornecimento de químicos de perfuração
+- **Tipo:** SCA

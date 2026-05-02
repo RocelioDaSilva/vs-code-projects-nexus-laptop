@@ -1,0 +1,13 @@
+# PGMA - LOGISTICA & SERVIÇOS, LDA
+
+> 📌 **Perfil Completo:** [[PGMA - LOGISTICA & SERVIÇOS, LDA_5002236893]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5002236893` |
+| **Status ANPG** | — |
+| **Serviço** | 8. Serviços de Finanças e Seguros |
+| **Actividade / Nicho** | Gestão De Fundos E Security Banking Services |
+| **Tipo de Sociedade** | SCA |
+
+→ Consulte [[PGMA - LOGISTICA & SERVIÇOS, LDA_5002236893]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

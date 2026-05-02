@@ -1,0 +1,8 @@
+# Informantem - Informática e Manutenção Lda
+
+- **NIF:** 5417348007
+- **Nome:** Informantem - Informática e Manutenção Lda
+- **Status:** —
+- **Serviço:** 15. Serviços de Tecnologias de Informação e Comunicação
+- **Nicho:** Fornecimento de Serviços de Instalação e Manutenção de Cabling Onshore
+- **Tipo:** SCDA

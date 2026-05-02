@@ -1,0 +1,8 @@
+# Swire Energy Services Angola limitada
+
+- **NIF:** 54038725
+- **Nome:** Swire Energy Services Angola limitada
+- **Status:** —
+- **Serviço:** 2. Serviço de Inspecção, Testes e Certificação
+- **Nicho:** Serviços de inspecção
+- **Tipo:** SCDA

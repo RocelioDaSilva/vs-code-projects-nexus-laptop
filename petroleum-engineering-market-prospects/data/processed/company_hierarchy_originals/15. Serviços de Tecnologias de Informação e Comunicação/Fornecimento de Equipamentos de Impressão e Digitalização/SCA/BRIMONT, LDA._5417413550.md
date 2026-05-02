@@ -1,0 +1,8 @@
+# BRIMONT, LDA.
+
+- **NIF:** 5417413550
+- **Nome:** BRIMONT, LDA.
+- **Status:** Exclusividade
+- **Serviço:** 15. Serviços de Tecnologias de Informação e Comunicação
+- **Nicho:** Fornecimento de Equipamentos de Impressão e Digitalização
+- **Tipo:** SCA

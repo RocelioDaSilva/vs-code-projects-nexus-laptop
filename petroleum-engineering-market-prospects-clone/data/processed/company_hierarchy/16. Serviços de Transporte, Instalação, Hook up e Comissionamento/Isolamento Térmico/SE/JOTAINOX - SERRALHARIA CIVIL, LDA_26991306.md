@@ -1,0 +1,13 @@
+# JOTAINOX - SERRALHARIA CIVIL, LDA
+
+> 📌 **Perfil Completo:** [[JOTAINOX - SERRALHARIA CIVIL, LDA_26991306]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `26991306` |
+| **Status ANPG** | — |
+| **Serviço** | 16. Serviços de Transporte, Instalação, Hook up e Comissionamento |
+| **Actividade / Nicho** | Isolamento Térmico |
+| **Tipo de Sociedade** | SE |
+
+→ Consulte [[JOTAINOX - SERRALHARIA CIVIL, LDA_26991306]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

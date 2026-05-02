@@ -1,0 +1,8 @@
+# KWIK-FORM-PRESTAÇÃO DE SERVIÇOS PETROLÍFEROS ANGOLA (SU), LDA
+
+- **NIF:** 5480008927
+- **Nome:** KWIK-FORM-PRESTAÇÃO DE SERVIÇOS PETROLÍFEROS ANGOLA (SU), LDA
+- **Status:** —
+- **Serviço:** 16. Serviços de Transporte, Instalação, Hook up e Comissionamento
+- **Nicho:** Limpeza, Inspeção e Manutenção de Tanques,
+- **Tipo:** SCDA

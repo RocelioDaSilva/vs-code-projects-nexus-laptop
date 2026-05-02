@@ -1,0 +1,8 @@
+# Aker Solutions Subsea AS
+
+- **NIF:** 17734005
+- **Nome:** Aker Solutions Subsea AS
+- **Status:** Preferência
+- **Serviço:** 16. Serviços de Transporte, Instalação, Hook up e Comissionamento
+- **Nicho:** Instalação de estruturas e equipamentos da produção
+- **Tipo:** SE

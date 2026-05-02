@@ -1,0 +1,8 @@
+# EGOLI WORLD BUSINESS
+
+- **NIF:** 5417022624
+- **Nome:** EGOLI WORLD BUSINESS
+- **Status:** —
+- **Serviço:** 4. Serviços de Apoio
+- **Nicho:** Serviços Da Sala De Estar Aeroportuária E Apoio
+- **Tipo:** SCA

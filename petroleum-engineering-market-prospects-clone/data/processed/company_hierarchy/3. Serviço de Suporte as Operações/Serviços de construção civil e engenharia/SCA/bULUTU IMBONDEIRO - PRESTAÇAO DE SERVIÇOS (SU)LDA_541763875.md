@@ -1,0 +1,13 @@
+# bULUTU IMBONDEIRO - PRESTAÇAO DE SERVIÇOS (SU)LDA
+
+> 📌 **Perfil Completo:** [[bULUTU IMBONDEIRO - PRESTAÇAO DE SERVIÇOS (SU)LDA_541763875]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `541763875` |
+| **Status ANPG** | Preferência |
+| **Serviço** | 3. Serviço de Suporte as Operações |
+| **Actividade / Nicho** | Serviços de construção civil e engenharia |
+| **Tipo de Sociedade** | SCA |
+
+→ Consulte [[bULUTU IMBONDEIRO - PRESTAÇAO DE SERVIÇOS (SU)LDA_541763875]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

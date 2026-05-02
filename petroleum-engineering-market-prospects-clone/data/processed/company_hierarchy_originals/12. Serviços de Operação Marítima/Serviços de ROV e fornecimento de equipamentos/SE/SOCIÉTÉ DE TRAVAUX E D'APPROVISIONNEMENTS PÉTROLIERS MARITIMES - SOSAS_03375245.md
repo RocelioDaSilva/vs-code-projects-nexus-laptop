@@ -1,0 +1,8 @@
+# SOCIÉTÉ DE TRAVAUX E D'APPROVISIONNEMENTS PÉTROLIERS MARITIMES - SOSAS
+
+- **NIF:** 03375245
+- **Nome:** SOCIÉTÉ DE TRAVAUX E D'APPROVISIONNEMENTS PÉTROLIERS MARITIMES - SOSAS
+- **Status:** Preferência
+- **Serviço:** 12. Serviços de Operação Marítima
+- **Nicho:** Serviços de ROV e fornecimento de equipamentos
+- **Tipo:** SE

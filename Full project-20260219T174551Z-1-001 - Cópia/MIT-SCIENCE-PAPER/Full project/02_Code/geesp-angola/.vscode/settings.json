@@ -1,0 +1,128 @@
+{
+  // ========================================================================
+  // PYTHON CONFIGURATION
+  // ========================================================================
+  "python.defaultInterpreterPath": "${workspaceFolder}/venv/bin/python",
+  "python.formatting.provider": "black",
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": false,
+  "python.linting.flake8Enabled": true,
+  "python.linting.flake8Args": [
+    "--max-line-length=100",
+    "--extend-ignore=E203,W503"
+  ],
+  "python.linting.mypyEnabled": true,
+  "python.testing.pytestEnabled": true,
+  "python.testing.pytestArgs": [
+    "tests",
+    "-v"
+  ],
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true,
+      "source.organizeImports": true
+    },
+    "editor.rulers": [100]
+  },
+
+  // ========================================================================
+  // CODE EDITOR PREFERENCES
+  // ========================================================================
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.rulers": [80, 100],
+  "editor.trimAutoWhitespace": true,
+  "editor.detectIndentation": true,
+  "editor.insertSpaces": true,
+  "editor.tabSize": 4,
+  "editor.renderWhitespace": "trailing",
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+
+  // ========================================================================
+  // GIT & SOURCE CONTROL
+  // ========================================================================
+  "git.ignoreLimitWarning": true,
+  "git.ignoreRecommendations": false,
+  "scm.alwaysShowRepositories": true,
+
+  // ========================================================================
+  // EXTENSIONS: Python, Pylance, Pylint
+  // ========================================================================
+  "pylance.typeCheckingMode": "standard",
+  "python.analysis.typeCheckingMode": "standard",
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/scripts",
+    "${workspaceFolder}/dashboard"
+  ],
+
+  // ========================================================================
+  // EXTENSIONS: Linting & Formatting
+  // ========================================================================
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[yaml]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "editor.formatOnSave": false
+  },
+  "[markdown]": {
+    "editor.wordWrap": "on",
+    "editor.formatOnSave": false
+  },
+
+  // ========================================================================
+  // FILE ASSOCIATIONS
+  // ========================================================================
+  "files.associations": {
+    "*.yml": "yaml",
+    "*.yaml": "yaml",
+    ".env*": "properties",
+    "*.lock": "plaintext"
+  },
+
+  // ========================================================================
+  // SEARCH & EXCLUDE
+  // ========================================================================
+  "search.exclude": {
+    "**/.git": true,
+    "**/.venv": true,
+    "**/venv": true,
+    "**/.pytest_cache": true,
+    "**/.mypy_cache": true,
+    "**/node_modules": true,
+    "**/.idea": true,
+    "**/__pycache__": true
+  },
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/*.pyc": true,
+    "**/.pytest_cache": true,
+    "**/.mypy_cache": true
+  },
+
+  // ========================================================================
+  // TERMINAL
+  // ========================================================================
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "terminal.integrated.env.windows": {
+    "PYTHONUNBUFFERED": "1"
+  },
+
+  // ========================================================================
+  // RECOMMENDED EXTENSIONS (in .vscode/extensions.json)
+  // ========================================================================
+  "extensions.recommendations": [
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-python.debugpy",
+    "esbenp.prettier-vscode",
+    "charliermarsh.ruff",
+    "ms-vscode-remote.remote-containers"
+  ]
+}

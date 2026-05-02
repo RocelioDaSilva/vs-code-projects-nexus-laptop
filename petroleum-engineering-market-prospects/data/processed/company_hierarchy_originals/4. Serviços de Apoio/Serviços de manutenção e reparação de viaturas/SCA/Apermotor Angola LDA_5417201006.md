@@ -1,0 +1,8 @@
+# Apermotor Angola LDA
+
+- **NIF:** 5417201006
+- **Nome:** Apermotor Angola LDA
+- **Status:** —
+- **Serviço:** 4. Serviços de Apoio
+- **Nicho:** Serviços de manutenção e reparação de viaturas
+- **Tipo:** SCA

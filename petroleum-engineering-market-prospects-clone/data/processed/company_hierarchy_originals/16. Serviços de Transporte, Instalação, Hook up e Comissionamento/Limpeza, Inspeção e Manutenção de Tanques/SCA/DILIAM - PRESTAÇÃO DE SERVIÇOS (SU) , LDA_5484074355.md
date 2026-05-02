@@ -1,0 +1,8 @@
+# DILIAM - PRESTAÇÃO DE SERVIÇOS (SU) , LDA
+
+- **NIF:** 5484074355
+- **Nome:** DILIAM - PRESTAÇÃO DE SERVIÇOS (SU) , LDA
+- **Status:** —
+- **Serviço:** 16. Serviços de Transporte, Instalação, Hook up e Comissionamento
+- **Nicho:** Limpeza, Inspeção e Manutenção de Tanques
+- **Tipo:** SCA

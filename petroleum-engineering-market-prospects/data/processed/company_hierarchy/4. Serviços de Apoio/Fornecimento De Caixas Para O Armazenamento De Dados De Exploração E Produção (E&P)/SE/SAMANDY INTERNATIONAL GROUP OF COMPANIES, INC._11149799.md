@@ -1,0 +1,13 @@
+# SAMANDY INTERNATIONAL GROUP OF COMPANIES, INC.
+
+> 📌 **Perfil Completo:** [[SAMANDY INTERNATIONAL GROUP OF COMPANIES, INC._11149799]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `11149799` |
+| **Status ANPG** | — |
+| **Serviço** | 4. Serviços de Apoio |
+| **Actividade / Nicho** | Fornecimento De Caixas Para O Armazenamento De Dados De Exploração E Produção (E&P) |
+| **Tipo de Sociedade** | SE |
+
+→ Consulte [[SAMANDY INTERNATIONAL GROUP OF COMPANIES, INC._11149799]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

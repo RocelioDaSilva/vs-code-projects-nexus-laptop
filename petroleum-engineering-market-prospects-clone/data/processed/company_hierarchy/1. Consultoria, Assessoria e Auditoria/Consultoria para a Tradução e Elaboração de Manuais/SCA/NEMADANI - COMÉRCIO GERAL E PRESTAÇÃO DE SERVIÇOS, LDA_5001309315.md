@@ -1,0 +1,13 @@
+# NEMADANI - COMÉRCIO GERAL E PRESTAÇÃO DE SERVIÇOS, LDA
+
+> 📌 **Perfil Completo:** [[NEMADANI - COMÉRCIO GERAL E PRESTAÇÃO DE SERVIÇOS, LDA_5001309315]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5001309315` |
+| **Status ANPG** | Exclusividade |
+| **Serviço** | 1. Consultoria, Assessoria e Auditoria |
+| **Actividade / Nicho** | Consultoria para a Tradução e Elaboração de Manuais |
+| **Tipo de Sociedade** | SCA |
+
+→ Consulte [[NEMADANI - COMÉRCIO GERAL E PRESTAÇÃO DE SERVIÇOS, LDA_5001309315]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

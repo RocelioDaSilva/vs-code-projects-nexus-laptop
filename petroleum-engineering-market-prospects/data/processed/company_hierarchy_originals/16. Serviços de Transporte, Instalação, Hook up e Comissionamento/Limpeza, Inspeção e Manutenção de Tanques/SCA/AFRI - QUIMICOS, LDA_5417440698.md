@@ -1,0 +1,8 @@
+# AFRI - QUIMICOS, LDA
+
+- **NIF:** 5417440698
+- **Nome:** AFRI - QUIMICOS, LDA
+- **Status:** —
+- **Serviço:** 16. Serviços de Transporte, Instalação, Hook up e Comissionamento
+- **Nicho:** Limpeza, Inspeção e Manutenção de Tanques
+- **Tipo:** SCA

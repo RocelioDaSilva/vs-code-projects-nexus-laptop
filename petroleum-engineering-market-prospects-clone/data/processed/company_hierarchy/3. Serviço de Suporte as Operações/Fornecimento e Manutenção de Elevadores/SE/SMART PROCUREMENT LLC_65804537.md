@@ -1,0 +1,13 @@
+# SMART PROCUREMENT LLC
+
+> 📌 **Perfil Completo:** [[SMART PROCUREMENT LLC_65804537]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `65804537` |
+| **Status ANPG** | — |
+| **Serviço** | 3. Serviço de Suporte as Operações |
+| **Actividade / Nicho** | Fornecimento e Manutenção de Elevadores |
+| **Tipo de Sociedade** | SE |
+
+→ Consulte [[SMART PROCUREMENT LLC_65804537]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

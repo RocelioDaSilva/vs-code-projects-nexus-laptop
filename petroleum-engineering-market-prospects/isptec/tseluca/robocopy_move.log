@@ -1,0 +1,29 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 20 de abril de 2026 21:03:33
+   Source : c:\Users\rocel\OneDrive\Desktop\petroleum-engineering-market-prospects\isptec\tseluca\petrolumenisback\
+     Dest : c:\Users\rocel\OneDrive\Desktop\petroleum-engineering-market-prospects\isptec\tseluca\oil&gas projects\petrolumenisback\
+
+    Files : *.*
+	    
+  Options : *.* /NDL /NFL /S /E /DCOPY:DA /COPY:DAT /NP /R:3 /W:5 
+
+------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        96        96         0         0         0         0
+   Files :       367       367         0         0         0         0
+   Bytes :    7.59 m    7.59 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            11586802 Bytes/sec.
+   Speed :             663.002 MegaBytes/min.
+   Ended : 20 de abril de 2026 21:03:34
+

@@ -1,0 +1,8 @@
+# AFRI - QUIMICOS, LDA
+
+- **NIF:** 5417440698
+- **Nome:** AFRI - QUIMICOS, LDA
+- **Status:** —
+- **Serviço:** 11. Serviços de Geociências
+- **Nicho:** Serviços De Análises De Laboratórios De Fluídos
+- **Tipo:** SCA

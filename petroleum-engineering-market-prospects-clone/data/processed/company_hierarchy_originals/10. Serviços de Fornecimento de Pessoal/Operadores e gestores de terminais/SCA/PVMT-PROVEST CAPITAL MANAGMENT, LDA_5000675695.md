@@ -1,0 +1,8 @@
+# PVMT-PROVEST CAPITAL MANAGMENT, LDA
+
+- **NIF:** 5000675695
+- **Nome:** PVMT-PROVEST CAPITAL MANAGMENT, LDA
+- **Status:** —
+- **Serviço:** 10. Serviços de Fornecimento de Pessoal
+- **Nicho:** Operadores e gestores de terminais
+- **Tipo:** SCA

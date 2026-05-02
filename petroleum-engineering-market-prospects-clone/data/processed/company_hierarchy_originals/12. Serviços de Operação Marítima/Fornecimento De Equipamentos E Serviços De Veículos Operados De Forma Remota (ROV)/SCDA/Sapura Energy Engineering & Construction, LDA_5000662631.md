@@ -1,0 +1,8 @@
+# Sapura Energy Engineering & Construction, LDA
+
+- **NIF:** 5000662631
+- **Nome:** Sapura Energy Engineering & Construction, LDA
+- **Status:** —
+- **Serviço:** 12. Serviços de Operação Marítima
+- **Nicho:** Fornecimento De Equipamentos E Serviços De Veículos Operados De Forma Remota (ROV)
+- **Tipo:** SCDA

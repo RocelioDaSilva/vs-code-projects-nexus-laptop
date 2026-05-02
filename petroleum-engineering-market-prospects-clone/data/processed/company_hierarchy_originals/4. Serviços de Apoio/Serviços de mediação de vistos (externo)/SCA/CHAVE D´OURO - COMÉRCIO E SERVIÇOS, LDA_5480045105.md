@@ -1,0 +1,8 @@
+# CHAVE D´OURO - COMÉRCIO E SERVIÇOS, LDA
+
+- **NIF:** 5480045105
+- **Nome:** CHAVE D´OURO - COMÉRCIO E SERVIÇOS, LDA
+- **Status:** Preferência
+- **Serviço:** 4. Serviços de Apoio
+- **Nicho:** Serviços de mediação de vistos (externo)
+- **Tipo:** SCA

@@ -1,0 +1,13 @@
+# RED CHARTERING,FRETAMENTO E GESTAO DE NAVIOS,LDA
+
+> 📌 **Perfil Completo:** [[RED CHARTERING,FRETAMENTO E GESTAO DE NAVIOS,LDA_5002399059]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5002399059` |
+| **Status ANPG** | — |
+| **Serviço** | 9. Serviços de Formação e Capacitação Profissional |
+| **Actividade / Nicho** | Serviços de revestimento, tubagem de produção e manuseamento de peneiras, equipamentos e serviços |
+| **Tipo de Sociedade** | SCDA |
+
+→ Consulte [[RED CHARTERING,FRETAMENTO E GESTAO DE NAVIOS,LDA_5002399059]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

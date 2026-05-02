@@ -1,0 +1,13 @@
+# SONILS - SONANGOL INTEGRATED LOGISTIC SERVICES
+
+> 📌 **Perfil Completo:** [[SONILS - SONANGOL INTEGRATED LOGISTIC SERVICES_5410002733]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5410002733` |
+| **Status ANPG** | Preferência |
+| **Serviço** | 14. Serviços de Saúde, Meio Ambiente e Segurança |
+| **Actividade / Nicho** | Análise da qualidade de água |
+| **Tipo de Sociedade** | SCA |
+
+→ Consulte [[SONILS - SONANGOL INTEGRATED LOGISTIC SERVICES_5410002733]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

@@ -1,0 +1,8 @@
+# ARIES ONE, LLC
+
+- **NIF:** 33843072
+- **Nome:** ARIES ONE, LLC
+- **Status:** —
+- **Serviço:** 2. Serviço de Inspecção, Testes e Certificação
+- **Nicho:** Serviços de inspecção e certificação de Equipamentos Pressurizados
+- **Tipo:** SE

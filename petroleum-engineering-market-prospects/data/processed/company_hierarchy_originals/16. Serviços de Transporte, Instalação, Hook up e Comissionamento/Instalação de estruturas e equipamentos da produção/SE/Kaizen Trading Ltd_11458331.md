@@ -1,0 +1,8 @@
+# Kaizen Trading Ltd
+
+- **NIF:** 11458331
+- **Nome:** Kaizen Trading Ltd
+- **Status:** —
+- **Serviço:** 16. Serviços de Transporte, Instalação, Hook up e Comissionamento
+- **Nicho:** Instalação de estruturas e equipamentos da produção
+- **Tipo:** SE

@@ -1,0 +1,13 @@
+# MOPANOIL - COMERCIO E SERVIÇOS, LDA
+
+> 📌 **Perfil Completo:** [[MOPANOIL - COMERCIO E SERVIÇOS, LDA_5001555936]]
+
+| Campo | Valor |
+|---|---|
+| **NIF** | `5001555936` |
+| **Status ANPG** | Preferência |
+| **Serviço** | 6. Serviços de Engenharia e gestão de Projectos (Pré-Feed, FEED e Engenharia de Detalhe) |
+| **Actividade / Nicho** | General engineering services |
+| **Tipo de Sociedade** | SCA |
+
+→ Consulte [[MOPANOIL - COMERCIO E SERVIÇOS, LDA_5001555936]] para informação completa sobre esta empresa (contactos, website, LinkedIn, cadeia de valor, como se candidatar).

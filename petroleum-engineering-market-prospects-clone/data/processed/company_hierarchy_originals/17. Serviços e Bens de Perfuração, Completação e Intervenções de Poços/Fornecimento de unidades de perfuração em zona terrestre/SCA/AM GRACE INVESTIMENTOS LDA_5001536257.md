@@ -1,0 +1,8 @@
+# AM GRACE INVESTIMENTOS LDA
+
+- **NIF:** 5001536257
+- **Nome:** AM GRACE INVESTIMENTOS LDA
+- **Status:** —
+- **Serviço:** 17. Serviços e Bens de Perfuração, Completação e Intervenções de Poços
+- **Nicho:** Fornecimento de unidades de perfuração em zona terrestre
+- **Tipo:** SCA

@@ -1,0 +1,8 @@
+# Baker Hughes Oil & Gas Pressure Control (Suzhou) Co., Ltd
+
+- **NIF:** 93804250
+- **Nome:** Baker Hughes Oil & Gas Pressure Control (Suzhou) Co., Ltd
+- **Status:** —
+- **Serviço:** 2. Serviço de Inspecção, Testes e Certificação
+- **Nicho:** Prestação de Testes Não-destrutivos (NDT) e Serviços de Inspecção
+- **Tipo:** SE

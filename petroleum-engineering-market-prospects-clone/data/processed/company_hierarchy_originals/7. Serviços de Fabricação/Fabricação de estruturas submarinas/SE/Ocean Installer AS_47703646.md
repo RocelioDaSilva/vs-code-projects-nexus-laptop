@@ -1,0 +1,8 @@
+# Ocean Installer AS
+
+- **NIF:** 47703646
+- **Nome:** Ocean Installer AS
+- **Status:** Preferência
+- **Serviço:** 7. Serviços de Fabricação
+- **Nicho:** Fabricação de estruturas submarinas
+- **Tipo:** SE

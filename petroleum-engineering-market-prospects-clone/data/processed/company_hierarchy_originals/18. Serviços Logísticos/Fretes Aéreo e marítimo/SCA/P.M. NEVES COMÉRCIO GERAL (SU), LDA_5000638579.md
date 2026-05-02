@@ -1,0 +1,8 @@
+# P.M. NEVES COMÉRCIO GERAL (SU), LDA
+
+- **NIF:** 5000638579
+- **Nome:** P.M. NEVES COMÉRCIO GERAL (SU), LDA
+- **Status:** Preferência
+- **Serviço:** 18. Serviços Logísticos
+- **Nicho:** Fretes Aéreo e marítimo
+- **Tipo:** SCA

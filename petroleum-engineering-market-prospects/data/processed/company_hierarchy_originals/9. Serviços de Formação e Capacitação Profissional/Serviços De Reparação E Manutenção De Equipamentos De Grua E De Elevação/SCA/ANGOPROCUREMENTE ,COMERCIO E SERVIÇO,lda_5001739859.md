@@ -1,0 +1,8 @@
+# ANGOPROCUREMENTE ,COMERCIO E SERVIÇO,lda
+
+- **NIF:** 5001739859
+- **Nome:** ANGOPROCUREMENTE ,COMERCIO E SERVIÇO,lda
+- **Status:** —
+- **Serviço:** 9. Serviços de Formação e Capacitação Profissional
+- **Nicho:** Serviços De Reparação E Manutenção De Equipamentos De Grua E De Elevação
+- **Tipo:** SCA
